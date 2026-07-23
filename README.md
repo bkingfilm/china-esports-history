@@ -38,7 +38,7 @@ BBKinG，本名刘洋，1998 年入行的电竞老兵。前上海文广《游戏
 
 ### 序章
 
-- [TEDx 演讲，让路更多一些](chapters/序章-TEDx演讲-让路更多一些.md)（[English version](en/one-more-way-tedx-2015.md)）
+- [TEDx 演讲，让路更多一些](chapters/序章-TEDx演讲-让路更多一些.md)（[演讲视频](https://www.bilibili.com/video/BV1ts411U7tz/)｜[English version](en/one-more-way-tedx-2015.md)）
 - [自序](chapters/00-自序.md)
 
 ### 正文

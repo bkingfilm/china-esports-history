@@ -1,6 +1,8 @@
 # 让路更多一些 我在TEDx 讲中国电竞
 
 > 首发于知乎专栏（2015-05-16）原文链接：https://zhuanlan.zhihu.com/p/19975183
+>
+> 演讲完整视频：https://www.bilibili.com/video/BV1ts411U7tz/
 
 [
 ![](http://g3.ykimg.com/0100641F465556B392CF2407DFE939F23D321E-B9E8-269F-2E75-704E4902C3D4)
