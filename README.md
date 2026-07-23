@@ -18,6 +18,22 @@ BBKinG，本名刘洋，1998 年入行的电竞老兵。前上海文广《游戏
 - B 站：[导演 BK](https://space.bilibili.com/10500463)
 - 知乎专栏：[中国电子竞技幕后史](https://zhuanlan.zhihu.com/bbking)
 
+## 2015 新书发布会
+
+2015 年 12 月 4 日，本书新书发布会在上海举行，马天元、SKY 李晓峰、Alex 卞正伟、海涛、BBC、小苍、ZAX 等几十位中国电竞的亲历者到场。[完整现场记录见附录](appendix/09-新书发布会.md)。
+
+<img src="assets/images/65d2087be2.png" alt="老友组" width="640">
+
+左起 ZAX（Replays.net、StarsWar 和 WE 创始人）、小苍（前 WAR3 职业选手）、刘义峰（前 WAR3 职业选手）、SKY 李晓峰（WCG 2005、2006 世界冠军）
+
+<img src="assets/images/eeb7c60903.jpg" alt="马天元组" width="640">
+
+左起 EVA 剑心（剑心补丁包作者）、王晓鹏无手哥、马天元（中国第一个 WCG 世界冠军金牌获得者之一）、林熊猫、魔术羊、熊律师
+
+<img src="assets/images/8c3e1acf17.jpg" alt="暴雪组" width="640">
+
+左起吴健、王晓东、bunny、brett（四位均为暴雪中国电竞团队成员）、波比（腾讯游戏，前 TGA 负责人）
+
 ## 目录
 
 ### 序章
@@ -99,6 +115,7 @@ BBKinG，本名刘洋，1998 年入行的电竞老兵。前上海文广《游戏
 成书之后，作者仍在专栏里陆续写下的电竞史料短文，按发表时间排列。
 
 - [失控的中国电子竞技](appendix/01-失控的中国电子竞技.md)（2015）
+- [《中国电竞幕后史》新书发布会](appendix/09-新书发布会.md)（2015）
 - [KULOU.CSA韩国之旅，写于2000年WCGC](appendix/02-KULOU.CSA韩国之旅-写于2000年WCGC.md)（2016）
 - [为什么大多电竞组织和赛事都在上海](appendix/03-为什么大多电竞组织和赛事都在上海.md)（2017）
 - [两年后，再看移动电竞](appendix/04-两年后，再看移动电竞.md)（2017）
