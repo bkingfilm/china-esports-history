@@ -1,0 +1,147 @@
+site_name: 中国电竞幕后史 · ONE MORE WAY
+site_description: 第一部记录中国电子竞技二十年幕后故事的书
+site_url: https://bkingfilm.github.io/china-esports-history/
+repo_url: https://github.com/bkingfilm/china-esports-history
+repo_name: bkingfilm/china-esports-history
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  language: zh
+  logo: assets/cover.jpg
+  favicon: assets/cover.jpg
+  features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  alternate:
+    - name: 简体中文
+      link: zh/
+      lang: zh
+    - name: English
+      link: en/
+      lang: en
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bkingfilm/china-esports-history
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/10500463
+
+copyright: Copyright &copy; BBKinG · CC BY-NC-ND 4.0
+
+nav:
+  - 选择语言 · Languages: index.md
+  - 简体中文:
+      - 首页: zh/index.md
+      - 中国电竞幕后史:
+          - 导读: zh/chapters/index.md
+          - 序章 · TEDx 演讲: zh/chapters/序章-TEDx演讲-让路更多一些.md
+          - 自序: zh/chapters/00-自序.md
+          - 一 · 从星际争霸说起: zh/chapters/01-从星际争霸说起.md
+          - 二 · 电子竞技的百家争鸣: zh/chapters/02-电子竞技的百家争鸣.md
+          - 三 · 电子竞技新闻网站的革新: zh/chapters/03-电子竞技新闻网站的革新.md
+          - 四 · 中国电子竞技对战平台兴衰录: zh/chapters/04-中国电子竞技对战平台兴衰录.md
+          - 五 · CEG 的故事: zh/chapters/05-CEG的故事.md
+          - 六 · StarsWar 的赛事娱乐化探索: zh/chapters/06-StarsWar的电竞赛事娱乐化探索.md
+          - 七 · 游戏风云的前世今生: zh/chapters/07-游戏风云的前世今生.md
+          - 八 · NeoTV、PLU 恩仇录: zh/chapters/08-NeoTV、PLU恩仇录.md
+          - 九 · 海涛和 2009 的宿命撞击: zh/chapters/09-海涛和2009的宿命撞击.md
+          - 十 · 女电竞人 Miss: zh/chapters/10-女电竞人Miss.md
+          - 十一 · 女电竞人小苍: zh/chapters/11-女电竞人小苍.md
+          - 十二 · 820 的人生牌局: zh/chapters/12-820的人生牌局.md
+          - 十三 · 川军先锋马天元: zh/chapters/13-川军先锋-马天元.md
+          - 十四 · 腾讯，他想干嘛: zh/chapters/14-腾讯，他想干嘛.md
+          - 十五 · 电竞百万富翁孟阳: zh/chapters/15-贫民窟走出的电竞百万富翁-孟阳.md
+          - 十六 · 忧虑的平媒《电子竞技》: zh/chapters/16-忧虑的平媒《电子竞技》.md
+          - 十七 · EVA 剑心补丁包十年造: zh/chapters/17-EVA剑心补丁包十年造.md
+          - 十八 · 从俱乐部到联盟的演变: zh/chapters/18-从俱乐部到联盟的演变.md
+          - 十九 · 长发飘飘 DC: zh/chapters/19-长发飘飘-DC.md
+          - 二十 · 多玩的绝招: zh/chapters/20-多玩的绝招.md
+          - 二十一 · U9，凶猛: zh/chapters/21-U9，凶猛.md
+          - 二十二 · WE.LOL 队长若风: zh/chapters/22-WE.LOL队长-若风Misaya.md
+          - 二十三 · I-Rocks 大韩: zh/chapters/23-I-Rocks大韩-豁出来的人生传奇.md
+          - 二十四 · 当李晓峰成为 SKY: zh/chapters/24-当李晓峰成为SKY.md
+          - 二十五 · 左手会跳舞的男人 suhO: zh/chapters/25-左手会跳舞的男人-suhO.md
+          - 二十六 · 抗韩英雄 MagicYang: zh/chapters/26-抗韩英雄-MagicYang.md
+          - 二十七 · 山城鬼王 TED: zh/chapters/27-父母带他打比赛-山城鬼王TED.md
+          - 二十八 · 西安高校电竞联盟 XUGA: zh/chapters/28-西安高校电子竞技联盟-XUGA.md
+          - 二十九 · Replays.net、StarsWar 和 WE 创始人 ZAX: zh/chapters/29-Replays.net、StarsWar和WE创始人-ZAX.md
+          - 三十 · 中国 CS 指挥官 Alex: zh/chapters/30-世界级中国CS指挥官-Alex卞正伟.md
+          - 三十一 · 从剑舞红颜笑到 IG.xiaoxiao: zh/chapters/31-从剑舞红颜笑-到-IG.xiaoxiao.md
+          - 三十二 · NGA 创始人 Ediart: zh/chapters/32-艾泽拉斯国家地理创始人-Ediart.md
+          - 三十三 · Newbee 队长张宁: zh/chapters/33-TI4世界冠军Newbee队长-张宁.md
+          - 三十四 · 苹果牛的《帝国时代》: zh/chapters/34-苹果牛的《帝国时代》.md
+          - 三十五 · 解说小智: zh/chapters/35-电竞娱乐化浪潮-解说小智.md
+          - 三十六 · 中国电竞解说元老 Alone: zh/chapters/36-中国电竞解说元老Alone.md
+          - 三十七 · 格斗天王小孩曾卓君: zh/chapters/37-格斗天王-小孩曾卓君.md
+          - 三十八 · Razer 创始人 Min: zh/chapters/38-Razer创始人兼CEO-Min.md
+          - 三十九 · 星际老男孩的不老青春: zh/chapters/39-星际老男孩的不老青春.md
+          - 四十 · 名嘴 BBC 的人生选择: zh/chapters/40-名嘴BBC的人生选择.md
+          - 四十一 · 另起一行做电竞刘义峰: zh/chapters/41-另起一行做电竞-刘义峰.md
+          - 四十二 · FIFA 冠军李君: zh/chapters/42-中国电子足球先生-FIFA冠军-李君.md
+          - 四十三 · 电竞第一女老板 RuRu 潘婕: zh/chapters/43-电竞第一女老板-RuRu潘婕.md
+          - 番外 · 刀工与大厨: zh/chapters/番外-刀工与大厨.md
+          - 番外 · 三言两语说电竞: zh/chapters/番外-三言两语说电竞.md
+          - 当事人篇 · NeoTV 熊剑明: zh/chapters/当事人篇-NeoTV前总经理熊剑明Neo亲述.md
+      - 中国游戏幕后史:
+          - 导读: zh/gamehistory/index.md
+          - 前言: zh/gamehistory/00-前言.md
+          - 一 · 吉川明静的日系游戏情缘: zh/gamehistory/01-吉川明静的日系游戏情缘.md
+          - 二 · 优酷不是媒体: zh/gamehistory/02-优酷不是媒体-游戏主编-秀才.md
+          - 三 · WOW 暴雪与九城: zh/gamehistory/03-WOW暴雪其实不想跟九城离婚.md
+          - 四 · 雪猹与游戏机: zh/gamehistory/04-雪猹-我们错过的不止是几台游戏机.md
+          - 五 · 天狼的 COSPLAY 工业化梦想: zh/gamehistory/05-天狼的COSPLAY工业化梦想.md
+          - 六 · 网鱼网咖创始人黄锋: zh/gamehistory/06-黄锋-网鱼网咖创始人.md
+          - 七 · 中国独立游戏人单隽: zh/gamehistory/07-单隽的困惑-中国独立游戏人.md
+          - 八 · 黄一孟: zh/gamehistory/08-然而已经不是愤青的CEO-黄一孟.md
+          - 番外 · 波士顿棒球记: zh/gamehistory/番外-波士顿棒球记.md
+      - 幕后史散篇:
+          - 导读: zh/appendix/index.md
+          - 失控的中国电子竞技: zh/appendix/01-失控的中国电子竞技.md
+          - KULOU.CSA 韩国之旅: zh/appendix/02-KULOU.CSA韩国之旅-写于2000年WCGC.md
+          - 为什么大多电竞组织和赛事都在上海: zh/appendix/03-为什么大多电竞组织和赛事都在上海.md
+          - 两年后，再看移动电竞: zh/appendix/04-两年后，再看移动电竞.md
+          - 中国游戏格斗圈: zh/appendix/05-中国游戏格斗圈-凝固的『芳华』.md
+          - 韩国 KTA 战队: zh/appendix/06-电竞比赛规则探索的牺牲品-韩国KTA战队.md
+          - WCG 2003 未播出的纪录片: zh/appendix/07-黑暗前的黎明-WCG2003未播出的纪录片.md
+          - 2003 年瑞典 SK 战队访华: zh/appendix/08-2003年瑞典SK战队访华.md
+          - 新书发布会: zh/appendix/09-新书发布会.md
+  - English:
+      - Home: en/index.md
+      - One More Way · TEDxSuzhou 2015: en/one-more-way-tedx-2015.md
+  - 许可 · License: license.md

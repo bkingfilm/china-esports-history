@@ -1,6 +1,6 @@
 # One More Way: How Chinese Esports Survived
 
-> A talk given by BBKinG (Liu Yang) at TEDxSuzhou, 2015. Translated from the Chinese original: [让路更多一些 我在TEDx讲中国电竞](../chapters/序章-TEDx演讲-让路更多一些.md)
+> A talk given by BBKinG (Liu Yang) at TEDxSuzhou, 2015. Translated from the Chinese original: [让路更多一些 我在TEDx讲中国电竞](../zh/chapters/序章-TEDx演讲-让路更多一些.md)
 >
 > Watch the full talk (in Chinese): [TEDx演讲 中国电子竞技 让路更多一些 on Bilibili](https://www.bilibili.com/video/BV1ts411U7tz/)
 
