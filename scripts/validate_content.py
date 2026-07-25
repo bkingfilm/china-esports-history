@@ -89,14 +89,16 @@ def validate_mapping(rows: list[dict[str, str]], errors: list[str]) -> None:
                 fail(errors, f"{content_id}: English path does not exist: {row['en_path']}")
 
         check = subprocess.run(
-            ["git", "cat-file", "-e", f"HEAD:{row['original_path']}"],
+            ["git", "rev-list", "-n", "1", "--all", "--", row["original_path"]],
             cwd=ROOT,
-            stdout=subprocess.DEVNULL,
+            text=True,
+            stdout=subprocess.PIPE,
+            encoding="utf-8",
             stderr=subprocess.DEVNULL,
             check=False,
         )
-        if check.returncode != 0:
-            fail(errors, f"{content_id}: original path is absent from HEAD: {row['original_path']}")
+        if check.returncode != 0 or not check.stdout.strip():
+            fail(errors, f"{content_id}: original path is absent from git history: {row['original_path']}")
 
 
 def flatten_nav(value: object) -> list[str]:
