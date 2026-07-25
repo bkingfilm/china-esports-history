@@ -1,4 +1,4 @@
-# More Paths Forward: How Chinese Esports Survived
+# One More Way: How Chinese Esports Survived
 
 > A talk given by BBKinG (Liu Yang) at TEDxSuzhou in 2015. Originally published on [Zhihu](https://zhuanlan.zhihu.com/p/19975183) on May 16, 2015. Translated from the Chinese original: [让路更多一些 我在TEDx讲中国电竞](../zh/chapters/序章-TEDx演讲-让路更多一些.md)
 >
