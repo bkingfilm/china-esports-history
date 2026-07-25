@@ -12,10 +12,10 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 
 ## Chapters
 
-- [Chapter 13. Vanguard from Sichuan: Ma Tianyuan](13-matianyuan-sichuan-vanguard.md), the StarCraft 2v2 world champion at WCG 2001
+- [Chapter 13. Vanguard of the Sichuan Legion: Ma Tianyuan](13-matianyuan-sichuan-vanguard.md), the StarCraft 2v2 world champion at WCG 2001 (reviewed against the Chinese original)
 
 ## Help improve these translations
 
-The English chapters are working translations and have not been through a full editorial pass yet. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request. Corrections are welcome and credited.
+English chapters are published as working translations and reviewed chapter by chapter. Each chapter states its current review status. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request. Corrections are welcome and credited.
 
 Want another chapter translated? [Open a translation request](https://github.com/bkingfilm/china-esports-history/issues/new?template=translation-request.md).
