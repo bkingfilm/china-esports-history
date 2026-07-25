@@ -10,4 +10,6 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 
 - [One More Way: How Chinese Esports Survived](one-more-way-tedx-2015.md) — the author's 2015 TEDxSuzhou talk
 
+- [Behind the Scenes of China's Game Industry](gamehistory/index.md) — foreword and Chapters 1–8 in English draft translation
+
 Want another chapter translated? [Open a translation request](https://github.com/bkingfilm/china-esports-history/issues/new?template=translation-request.md).

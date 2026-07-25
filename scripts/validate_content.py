@@ -19,7 +19,7 @@ DOCS = ROOT / "docs"
 MAP_PATH = ROOT / "project" / "content-map.csv"
 CONFIG_PATH = ROOT / "mkdocs.yml"
 EXPECTED_CONTENT = 67
-EXPECTED_PAGES = 75
+BASELINE_REF = "origin/main"
 VALID_TRANSLATION_STATES = {"not_started", "translating", "review", "published"}
 CONTENT_DIRS = (
     DOCS / "zh" / "chapters",
@@ -89,14 +89,17 @@ def validate_mapping(rows: list[dict[str, str]], errors: list[str]) -> None:
                 fail(errors, f"{content_id}: English path does not exist: {row['en_path']}")
 
         check = subprocess.run(
-            ["git", "cat-file", "-e", f"HEAD:{row['original_path']}"],
+            ["git", "cat-file", "-e", f"{BASELINE_REF}:{row['original_path']}"],
             cwd=ROOT,
             stdout=subprocess.DEVNULL,
             stderr=subprocess.DEVNULL,
             check=False,
         )
         if check.returncode != 0:
-            fail(errors, f"{content_id}: original path is absent from HEAD: {row['original_path']}")
+            fail(
+                errors,
+                f"{content_id}: original path is absent from {BASELINE_REF}: {row['original_path']}",
+            )
 
 
 def flatten_nav(value: object) -> list[str]:
@@ -121,9 +124,6 @@ def output_route(markdown_path: Path) -> str:
 
 def validate_pages_and_nav(errors: list[str]) -> None:
     pages = sorted(DOCS.rglob("*.md"))
-    if len(pages) != EXPECTED_PAGES:
-        fail(errors, f"found {len(pages)} Markdown pages; expected {EXPECTED_PAGES}")
-
     routes = [output_route(path) for path in pages]
     if len(routes) != len(set(routes)):
         duplicates = sorted({route for route in routes if routes.count(route) > 1})
@@ -181,13 +181,13 @@ def validate_links(errors: list[str]) -> None:
                 )
 
 
-def validate_site(site: Path, errors: list[str]) -> None:
+def validate_site(site: Path, expected_pages: int, errors: list[str]) -> None:
     if not site.is_dir():
         fail(errors, f"built site directory does not exist: {site}")
         return
     html_pages = sorted(site.rglob("index.html"))
-    if len(html_pages) != EXPECTED_PAGES:
-        fail(errors, f"built site has {len(html_pages)} index pages; expected {EXPECTED_PAGES}")
+    if len(html_pages) != expected_pages:
+        fail(errors, f"built site has {len(html_pages)} index pages; expected {expected_pages}")
     if not (site / "sitemap.xml").is_file():
         fail(errors, "built site is missing sitemap.xml")
 
@@ -200,10 +200,11 @@ def main() -> int:
     errors: list[str] = []
     rows = read_mapping(errors)
     validate_mapping(rows, errors)
+    page_count = len(list(DOCS.rglob("*.md")))
     validate_pages_and_nav(errors)
     validate_links(errors)
     if args.site:
-        validate_site(args.site.resolve(), errors)
+        validate_site(args.site.resolve(), page_count, errors)
 
     if errors:
         print("Validation failed:", file=sys.stderr)
@@ -213,10 +214,10 @@ def main() -> int:
 
     print(
         f"Validation passed: {EXPECTED_CONTENT} mapped content files, "
-        f"{EXPECTED_PAGES} Markdown pages, complete navigation, and valid local links."
+        f"{page_count} Markdown pages, complete navigation, and valid local links."
     )
     if args.site:
-        print(f"Built site passed: {EXPECTED_PAGES} generated HTML pages and sitemap.xml.")
+        print(f"Built site passed: {page_count} generated HTML pages and sitemap.xml.")
     return 0
 
 

@@ -144,4 +144,15 @@ nav:
   - English:
       - Home: en/index.md
       - One More Way · TEDxSuzhou 2015: en/one-more-way-tedx-2015.md
+      - Behind the Scenes of China's Game Industry:
+          - Introduction: en/gamehistory/index.md
+          - Foreword: en/gamehistory/00-foreword.md
+          - "1. Gikawa's Japanese Gaming Legacy": en/gamehistory/01-gikawa-japanese-gaming-legacy.md
+          - "2. Youku and Xiucai": en/gamehistory/02-youku-game-editor-xiucai.md
+          - "3. Blizzard and The9": en/gamehistory/03-blizzard-and-the9.md
+          - "4. Xue Cha and Game Consoles": en/gamehistory/04-xue-cha-and-game-consoles.md
+          - "5. Tianlang's Cosplay Dream": en/gamehistory/05-tianlang-cosplay-industry.md
+          - "6. Huang Feng and NetFish": en/gamehistory/06-huang-feng-netfish.md
+          - "7. Shan Jun, Independent Developer": en/gamehistory/07-shan-jun-independent-developer.md
+          - "8. Huang Yimeng": en/gamehistory/08-huang-yimeng-ceo.md
   - 许可 · License: license.md

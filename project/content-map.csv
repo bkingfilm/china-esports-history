@@ -13,14 +13,14 @@ ceh-10,chapters/10-女电竞人Miss.md,十 女电竞人Miss,人物,2013-11-26,20
 ceh-11,chapters/11-女电竞人小苍.md,十一 女电竞人小苍,人物,2013-11-27,2000-2010年代,小苍张翔玲,esports-history,docs/zh/chapters/11-女电竞人小苍.md,yes,README;nav,published,not_started,
 ceh-12,chapters/12-820的人生牌局.md,十二 820的人生牌局,人物,2013-11-28,2000-2010年代,820邹倚天;DOTA,esports-history,docs/zh/chapters/12-820的人生牌局.md,yes,README;nav,published,not_started,
 ceh-13,chapters/13-川军先锋-马天元.md,十三 川军先锋 马天元,人物,2013-11-29,2001前后,马天元;WCG,esports-history,docs/zh/chapters/13-川军先锋-马天元.md,yes,README;nav;assets,published,not_started,
-ceh-14,"chapters/14-腾讯，他想干嘛.md","十四 腾讯，他想干嘛？",公司与产业,2013-12-02,2010年代,腾讯;TGA,esports-history,"docs/zh/chapters/14-腾讯，他想干嘛.md",yes,README;nav,published,not_started,
+ceh-14,chapters/14-腾讯，他想干嘛.md,十四 腾讯，他想干嘛？,公司与产业,2013-12-02,2010年代,腾讯;TGA,esports-history,docs/zh/chapters/14-腾讯，他想干嘛.md,yes,README;nav,published,not_started,
 ceh-15,chapters/15-贫民窟走出的电竞百万富翁-孟阳.md,十五 贫民窟走出的电竞百万富翁 孟阳,人物,2013-12-05,2000年代,孟阳,esports-history,docs/zh/chapters/15-贫民窟走出的电竞百万富翁-孟阳.md,yes,README;nav,published,not_started,
 ceh-16,chapters/16-忧虑的平媒《电子竞技》.md,十六 忧虑的平媒《电子竞技》,媒体,2013-12-06,2000-2010年代,《电子竞技》杂志,esports-history,docs/zh/chapters/16-忧虑的平媒《电子竞技》.md,yes,README;nav,published,not_started,
 ceh-17,chapters/17-EVA剑心补丁包十年造.md,十七 EVA剑心补丁包十年造,社区与工具,2013-12-06,2000-2010年代,EVA剑心;剑心补丁包,esports-history,docs/zh/chapters/17-EVA剑心补丁包十年造.md,yes,README;nav,published,not_started,
 ceh-18,chapters/18-从俱乐部到联盟的演变.md,十八 从俱乐部到联盟的演变,组织与制度,2013-12-07,2000-2010年代,电竞俱乐部;职业联盟,esports-history,docs/zh/chapters/18-从俱乐部到联盟的演变.md,yes,README;nav,published,not_started,
 ceh-19,chapters/19-长发飘飘-DC.md,十九 长发飘飘 DC,人物,2013-12-09,2000-2010年代,DC董灿;DOTA,esports-history,docs/zh/chapters/19-长发飘飘-DC.md,yes,README;nav,published,not_started,
 ceh-20,chapters/20-多玩的绝招.md,二十 多玩的绝招,公司与媒体,2013-12-10,2000-2010年代,多玩,esports-history,docs/zh/chapters/20-多玩的绝招.md,yes,README;nav,published,not_started,
-ceh-21,"chapters/21-U9，凶猛.md","二十一 U9，凶猛",公司与媒体,2013-12-11,2000-2010年代,U9游久网,esports-history,"docs/zh/chapters/21-U9，凶猛.md",yes,README;nav,published,not_started,
+ceh-21,chapters/21-U9，凶猛.md,二十一 U9，凶猛,公司与媒体,2013-12-11,2000-2010年代,U9游久网,esports-history,docs/zh/chapters/21-U9，凶猛.md,yes,README;nav,published,not_started,
 ceh-22,chapters/22-WE.LOL队长-若风Misaya.md,二十二 WE.LOL队长 若风Misaya,人物与战队,2013-12-12,2007-2013,若风Misaya;WE;英雄联盟,esports-history,docs/zh/chapters/22-WE.LOL队长-若风Misaya.md,yes,README;nav,published,not_started,
 ceh-23,chapters/23-I-Rocks大韩-豁出来的人生传奇.md,二十三 I-Rocks大韩 豁出来的人生传奇,人物与战队,2013-12-13,2000-2010年代,大韩;I-Rocks,esports-history,docs/zh/chapters/23-I-Rocks大韩-豁出来的人生传奇.md,yes,README;nav,published,not_started,
 ceh-24,chapters/24-当李晓峰成为SKY.md,二十四 当李晓峰成为SKY,人物与赛事,2013-12-15,2004-2006,李晓峰SKY;WE;WCG;Warcraft III,esports-history,docs/zh/chapters/24-当李晓峰成为SKY.md,yes,README;nav,published,not_started,
@@ -47,20 +47,20 @@ ceh-prologue-tedx,chapters/序章-TEDx演讲-让路更多一些.md,让路更多�
 ceh-testimony-neotv,chapters/当事人篇-NeoTV前总经理熊剑明Neo亲述.md,当事人篇 NeoTV前总经理熊剑明Neo亲述,口述史,2013-11-23,2000年代,熊剑明Neo;NeoTV,esports-history,docs/zh/chapters/当事人篇-NeoTV前总经理熊剑明Neo亲述.md,yes,README;nav,published,not_started,
 ceh-extra-brief,chapters/番外-三言两语说电竞.md,番外篇 三言两语说电竞,评论,2014-03-13,跨年代,BBKinG,esports-history,docs/zh/chapters/番外-三言两语说电竞.md,yes,README;nav,published,not_started,
 ceh-extra-chef,chapters/番外-刀工与大厨.md,番外篇 刀工与大厨,评论,2013-11-13,跨年代,BBKinG,esports-history,docs/zh/chapters/番外-刀工与大厨.md,yes,README;nav,published,not_started,
-cgh-00,gamehistory/00-前言.md,中国游戏幕后史 前言,项目缘起,2014-09-09,跨年代,BBKinG,game-history,docs/zh/gamehistory/00-前言.md,yes,README;nav,published,not_started,
-cgh-01,gamehistory/01-吉川明静的日系游戏情缘.md,一 吉川明静的日系游戏情缘,人物与游戏文化,2014-09-11,1980-2010年代,吉川明静;张茗靖;日本游戏,game-history,docs/zh/gamehistory/01-吉川明静的日系游戏情缘.md,yes,README;nav,published,not_started,
-cgh-02,gamehistory/02-优酷不是媒体-游戏主编-秀才.md,二 优酷不是媒体 游戏主编 秀才,媒体与人物,2014-09-13,2000-2010年代,秀才;优酷;游戏媒体,game-history,docs/zh/gamehistory/02-优酷不是媒体-游戏主编-秀才.md,yes,README;nav,published,not_started,
-cgh-03,gamehistory/03-WOW暴雪其实不想跟九城离婚.md,三 WOW 暴雪其实不想跟九城离婚,公司与产业,2014-09-19,2000年代,暴雪;第九城市;魔兽世界,game-history,docs/zh/gamehistory/03-WOW暴雪其实不想跟九城离婚.md,yes,README;nav,published,not_started,
-cgh-04,gamehistory/04-雪猹-我们错过的不止是几台游戏机.md,四 雪猹 我们错过的不止是几台游戏机,人物与主机游戏,2014-09-30,1990-2010年代,雪猹;游戏机,game-history,docs/zh/gamehistory/04-雪猹-我们错过的不止是几台游戏机.md,yes,README;nav;assets,published,not_started,
-cgh-05,gamehistory/05-天狼的COSPLAY工业化梦想.md,五 天狼的COSPLAY工业化梦想,人物与文化产业,2014-10-25,2000-2010年代,天狼;COSPLAY,game-history,docs/zh/gamehistory/05-天狼的COSPLAY工业化梦想.md,yes,README;nav,published,not_started,
-cgh-06,gamehistory/06-黄锋-网鱼网咖创始人.md,六 黄锋 网鱼网咖创始人,人物与公司,2015-09-28,1990-2010年代,黄锋;网鱼网咖,game-history,docs/zh/gamehistory/06-黄锋-网鱼网咖创始人.md,yes,README;nav,published,not_started,
-cgh-07,gamehistory/07-单隽的困惑-中国独立游戏人.md,七 单隽的困惑 中国独立游戏人,独立游戏,2015-10-15,2000-2010年代,单隽;独立游戏,game-history,docs/zh/gamehistory/07-单隽的困惑-中国独立游戏人.md,yes,README;nav;assets,published,not_started,
-cgh-08,gamehistory/08-然而已经不是愤青的CEO-黄一孟.md,八 然而已经不是愤青的CEO 黄一孟,人物与公司,2016-08-08,2000-2010年代,黄一孟;心动网络,game-history,docs/zh/gamehistory/08-然而已经不是愤青的CEO-黄一孟.md,yes,README;nav,published,not_started,
+cgh-00,gamehistory/00-前言.md,中国游戏幕后史 前言,项目缘起,2014-09-09,跨年代,BBKinG,game-history,docs/zh/gamehistory/00-前言.md,yes,README;nav,published,review,docs/en/gamehistory/00-foreword.md
+cgh-01,gamehistory/01-吉川明静的日系游戏情缘.md,一 吉川明静的日系游戏情缘,人物与游戏文化,2014-09-11,1980-2010年代,吉川明静;张茗靖;日本游戏,game-history,docs/zh/gamehistory/01-吉川明静的日系游戏情缘.md,yes,README;nav,published,review,docs/en/gamehistory/01-gikawa-japanese-gaming-legacy.md
+cgh-02,gamehistory/02-优酷不是媒体-游戏主编-秀才.md,二 优酷不是媒体 游戏主编 秀才,媒体与人物,2014-09-13,2000-2010年代,秀才;优酷;游戏媒体,game-history,docs/zh/gamehistory/02-优酷不是媒体-游戏主编-秀才.md,yes,README;nav,published,review,docs/en/gamehistory/02-youku-game-editor-xiucai.md
+cgh-03,gamehistory/03-WOW暴雪其实不想跟九城离婚.md,三 WOW 暴雪其实不想跟九城离婚,公司与产业,2014-09-19,2000年代,暴雪;第九城市;魔兽世界,game-history,docs/zh/gamehistory/03-WOW暴雪其实不想跟九城离婚.md,yes,README;nav,published,review,docs/en/gamehistory/03-blizzard-and-the9.md
+cgh-04,gamehistory/04-雪猹-我们错过的不止是几台游戏机.md,四 雪猹 我们错过的不止是几台游戏机,人物与主机游戏,2014-09-30,1990-2010年代,雪猹;游戏机,game-history,docs/zh/gamehistory/04-雪猹-我们错过的不止是几台游戏机.md,yes,README;nav;assets,published,review,docs/en/gamehistory/04-xue-cha-and-game-consoles.md
+cgh-05,gamehistory/05-天狼的COSPLAY工业化梦想.md,五 天狼的COSPLAY工业化梦想,人物与文化产业,2014-10-25,2000-2010年代,天狼;COSPLAY,game-history,docs/zh/gamehistory/05-天狼的COSPLAY工业化梦想.md,yes,README;nav,published,review,docs/en/gamehistory/05-tianlang-cosplay-industry.md
+cgh-06,gamehistory/06-黄锋-网鱼网咖创始人.md,六 黄锋 网鱼网咖创始人,人物与公司,2015-09-28,1990-2010年代,黄锋;网鱼网咖,game-history,docs/zh/gamehistory/06-黄锋-网鱼网咖创始人.md,yes,README;nav,published,review,docs/en/gamehistory/06-huang-feng-netfish.md
+cgh-07,gamehistory/07-单隽的困惑-中国独立游戏人.md,七 单隽的困惑 中国独立游戏人,独立游戏,2015-10-15,2000-2010年代,单隽;独立游戏,game-history,docs/zh/gamehistory/07-单隽的困惑-中国独立游戏人.md,yes,README;nav;assets,published,review,docs/en/gamehistory/07-shan-jun-independent-developer.md
+cgh-08,gamehistory/08-然而已经不是愤青的CEO-黄一孟.md,八 然而已经不是愤青的CEO 黄一孟,人物与公司,2016-08-08,2000-2010年代,黄一孟;心动网络,game-history,docs/zh/gamehistory/08-然而已经不是愤青的CEO-黄一孟.md,yes,README;nav,published,review,docs/en/gamehistory/08-huang-yimeng-ceo.md
 cgh-extra-boston,gamehistory/番外-波士顿棒球记.md,番外篇 波士顿棒球记,文化观察,2014-09-25,2014,BBKinG;波士顿红袜,game-history,docs/zh/gamehistory/番外-波士顿棒球记.md,yes,README;nav;assets,published,not_started,
 archive-01,appendix/01-失控的中国电子竞技.md,失控的中国电子竞技,行业评论,2015-11-08,2010年代,电竞选手;俱乐部;直播平台,archive,docs/zh/appendix/01-失控的中国电子竞技.md,yes,README;nav,published,not_started,
 archive-02,appendix/02-KULOU.CSA韩国之旅-写于2000年WCGC.md,KULOU.CSA韩国之旅 写于2000年WCGC,赛事史料,2016-11-18,2000,KULOU.CSA;WCGC,archive,docs/zh/appendix/02-KULOU.CSA韩国之旅-写于2000年WCGC.md,yes,README;nav,published,not_started,
 archive-03,appendix/03-为什么大多电竞组织和赛事都在上海.md,为什么大多电竞组织和赛事都在上海,行业与城市,2017-03-03,2000-2010年代,上海;电竞组织;赛事,archive,docs/zh/appendix/03-为什么大多电竞组织和赛事都在上海.md,yes,README;nav;assets,published,not_started,
-archive-04,"appendix/04-两年后，再看移动电竞.md","两年后，再看移动电竞",移动电竞,2017-12-15,2015-2017,移动电竞;王者荣耀,archive,"docs/zh/appendix/04-两年后，再看移动电竞.md",yes,README;nav;assets,published,not_started,
+archive-04,appendix/04-两年后，再看移动电竞.md,两年后，再看移动电竞,移动电竞,2017-12-15,2015-2017,移动电竞;王者荣耀,archive,docs/zh/appendix/04-两年后，再看移动电竞.md,yes,README;nav;assets,published,not_started,
 archive-05,appendix/05-中国游戏格斗圈-凝固的『芳华』.md,中国游戏格斗圈 凝固的『芳华』,格斗游戏,2017-12-25,2000-2010年代,中国格斗游戏社区,archive,docs/zh/appendix/05-中国游戏格斗圈-凝固的『芳华』.md,yes,README;nav;assets,published,not_started,
 archive-06,appendix/06-电竞比赛规则探索的牺牲品-韩国KTA战队.md,电竞比赛规则探索的牺牲品 韩国KTA战队,赛事规则,2018-04-16,早期电竞,KTA战队;赛事规则,archive,docs/zh/appendix/06-电竞比赛规则探索的牺牲品-韩国KTA战队.md,yes,README;nav;assets,published,not_started,
 archive-07,appendix/07-黑暗前的黎明-WCG2003未播出的纪录片.md,黑暗前的黎明 WCG2003未播出的纪录片,纪录片与赛事史料,2018-05-04,2003,WCG 2003;央视;纪录片,archive,docs/zh/appendix/07-黑暗前的黎明-WCG2003未播出的纪录片.md,yes,README;nav;assets,published,not_started,
