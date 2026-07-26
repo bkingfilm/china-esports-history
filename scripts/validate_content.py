@@ -91,7 +91,9 @@ def validate_mapping(rows: list[dict[str, str]], errors: list[str]) -> None:
         check = subprocess.run(
             ["git", "cat-file", "-e", f"{BASELINE_REF}:{row['original_path']}"],
             cwd=ROOT,
-            stdout=subprocess.DEVNULL,
+            text=True,
+            stdout=subprocess.PIPE,
+            encoding="utf-8",
             stderr=subprocess.DEVNULL,
             check=False,
         )
