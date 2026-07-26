@@ -13,6 +13,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 ## Chapters
 
 - [Chapter 13. Vanguard of the Sichuan Legion: Ma Tianyuan](13-matianyuan-sichuan-vanguard.md), the StarCraft 2v2 world champion at WCG 2001 (reviewed against the Chinese original)
+- [Chapter 24. When Li Xiaofeng Became Sky](24-when-li-xiaofeng-became-sky.md), the Warcraft III world champion, written in 2005 before his WCG titles (working translation awaiting review)
 
 ## Help improve these translations
 
