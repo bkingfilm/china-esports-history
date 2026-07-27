@@ -1,102 +1,102 @@
-# Chapter 37. The King of Fighters: Xiaohai, Zeng Zhuojun
+# Chapter 37. King of Fighting Games: Xiaohai, Zeng Zhuojun
 
 > A chapter from ONE MORE WAY: The History Behind Chinese Esports, by BBKinG (Liu Yang). Translated from the Chinese original: [三十七 格斗天王 小孩曾卓君](../zh/chapters/37-格斗天王-小孩曾卓君.md)
 >
 > First published in the author's Zhihu column on June 18, 2015: https://zhuanlan.zhihu.com/p/20067276
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on July 27, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 More than thirty slaps to the face.
 
-That is the memory his father left seven-year-old Zeng Zhuojun with on his second trip to an arcade to play fighting games.
+That was the memory seven-year-old Zeng Zhuojun's father left him with on his second trip to an arcade to play fighting games.
 
 Not because he had gone to play games, but because he had lost.
 
-Eleven years later, at the 2007 grand final of Tougeki, the top fighting game tournament in Tokyo, Japan, Xiaohai reached the last eight in The King of Fighters '98, and for the first time the host handed him the microphone and asked whether he had anything to say.
+Eleven years later, Xiaohai reached the top eight in The King of Fighters '98 at the 2007 grand final of Tougeki, Japan's premier fighting game tournament, in Tokyo. For the first time, the host handed him the microphone and asked whether he had anything to say.
 
-He said: I won't say much. I'll say only one thing. I came here to take the championship.
+He said, "I won't say much. I'll say just one thing: I came here to win the championship!"
 
-All four thousand Japanese spectators in the hall caught fire, because in the end he really did win it. The video of his championship match is below.
+The 4,000 Japanese spectators in the arena erupted—and in the end, he really did win. The video of his championship match appears below.
 
 Video: [Tougeki 2007, The King of Fighters '98 grand final, Xiaohai vs Cheng Long](http://v.youku.com/v_show/id_XMjQ4ODMyODg=.html), on Youku
 
-Zeng Zhuojun was born in Guangzhou on April 26, 1989, and by the age of nine he ruled the city's arcade fighting game scene. In an era when the internet had not yet spread, word of mouth alone was enough to make him a known figure among people in Guangzhou. Many of them did not even know his real name. All they had heard was that there was a kid who was terrifyingly good at fighting games, so everyone began referring to him by the Cantonese pronunciation of the word for kid, xiaohai. To this day, if you search for that word on Baidu, the first result is him.
+Zeng Zhuojun was born in Guangzhou on April 26, 1989, and by the age of nine he ruled the city's arcade fighting game scene. In an era before widespread internet access, word of mouth alone made him a known figure throughout Guangzhou. Many people did not even know his real name; they had heard only of a kid who was frighteningly good at fighting games. Everyone began referring to him in Cantonese simply as "the kid"—a nickname written 小孩 and romanized in Mandarin as Xiaohai. Even today, a Baidu search for 小孩 returns him as the first result.
 
-Xiaohai's father ran a hardware store and loved playing shooting games on arcade machines. Xiaohai first walked into an arcade at the age of six, with his father taking him. At seven he played his first game of Street Fighter, took on a mentor there in the arcade, learned a few moves from him, and then beat that mentor more than ten times in a row.
+Xiaohai's father ran a hardware store and loved playing shooting games on arcade machines. He was the one who first took Xiaohai to an arcade at the age of six. At seven, Xiaohai played Street Fighter for the first time. He found someone at the arcade to teach him a few moves, then proceeded to beat his new mentor more than ten times in a row.
 
 Talent is talent. Sometimes you simply have to admit it exists.
 
-The second time out, though, Xiaohai learned that talent alone is not enough. He lost more than thirty games before he won one. He can no longer remember whether he took thirty slaps that day or sixty, because every round he lost earned him a hit. What stayed with him was that his opponent kept laughing the whole time, and laughing in a thoroughly obnoxious way.
+On his second visit, however, Xiaohai learned that talent alone was not enough. He lost more than 30 games before winning one. He can no longer remember whether his father slapped him 30 times that day or 60, because every round he lost brought another slap. What stayed with him was the way his opponent laughed throughout—an unbearably smug laugh.
 
-His father told him: don't be afraid of running into people better than you. I'll give you the coins. Keep playing until you win. Whatever you do, never lose to anyone.
+His father told him, "Don't be afraid of meeting someone better than you. I'll give you the tokens. Keep playing until you win. Whatever you do, never lose to anyone!"
 
-Xiaohai says his father was born on September 11, an extreme case of a Virgo.
+Xiaohai noted that his father was born on September 11: an extreme Virgo.
 
 His father gave him a childhood unlike other children's, painful and joyful at the same time.
 
-On one side was that relentless pressure, which meant he had to come first in everything he did. He was top of his class in primary school and again in middle school, and he was the school champion in Chinese chess and in table tennis. On the other side, every weekend his father would drive him to the major arcades around Guangzhou to walk in and challenge the local fighting game masters on their own turf.
+On one side was relentless pressure: he had to come first in everything he did. He ranked first in his class throughout primary and middle school, and became his school's champion in both Chinese chess and table tennis. On the other side, his father drove him to the major arcades around Guangzhou every weekend to challenge the resident fighting game masters on their own turf.
 
-The family's attitude toward games was that as long as his schoolwork was good, he could play, because every other form of entertainment costs time too, so why not let him do the thing he loves.
+The family's attitude toward gaming was simple: as long as his schoolwork was good, he could play. Every form of entertainment took time, so why not let him do what he loved?
 
-So until he was twelve, Xiaohai always went into arcades with his father alongside him, which gave him a relatively safe and stable environment to practice in.
+Until the age of 12, Xiaohai always entered arcades with his father by his side, giving him a relatively safe and stable environment in which to practice.
 
 The crucial part was that he did not just love playing fighting games. He was extremely good at them.
 
-Xiaohai says that back then arcades had no broadcast feeds or projectors, so it was common for more than a hundred spectators to pack in several rows deep behind him, the ones at the back standing on stools with bags of chips in their hands, up on their toes to watch him play, while the ones who pushed to the front stared at his hands trying to learn his inputs. That feeling of accomplishment is impossible to describe, he says, especially when he went to another arcade to take on the locals and beat every one of them under that kind of pressure. It felt incredible.
+Xiaohai said that arcades had no broadcast feeds or projection screens back then, so more than a hundred spectators would often crowd several rows deep behind him. Those at the back stood on stools, bags of chips in hand, stretching onto their toes to watch him play. Those who squeezed to the front stared intently at his hands, trying to learn his inputs. The sense of achievement was impossible to describe, he said—especially when he invaded another arcade, withstood the pressure, and defeated every local challenger. It felt incredible.
 
 ## The right time, the right place, the right people
 
-Because Guangzhou sits close to Hong Kong, the arcade scene there developed differently from the rest of the mainland. First, attitudes were more tolerant, there were arcades large and small everywhere, and shutdowns and restrictions were relatively rare. Second, there were far more games, and the newest arcade titles from abroad would show up quickly in the city's major venues. Third, the culture of arcade competition was much stronger.
+Because Guangzhou is close to Hong Kong, its arcade scene developed differently from those in the rest of mainland China. First, local attitudes were more tolerant. Arcades large and small were everywhere, and closures and restrictions were relatively rare. Second, the range of games was much broader, and the latest overseas arcade titles quickly appeared in the city's major venues. Finally, Guangzhou had a much stronger culture of arcade competition.
 
-In 2002, at the age of twelve, Xiaohai entered his first large arcade tournament, held at the Pacific Computer Mall in Guangzhou. People had started queuing to sign up at six in the morning, and by the time he and his father arrived at nine there were already more than a thousand people ahead of them. His father forced his way through the crowd, grabbed hold of the host and told him: let my son enter, I promise he'll give you a surprise.
+In 2002, at the age of 12, Xiaohai entered his first major arcade tournament, held at the Pacific Computer Mall in Guangzhou. People had begun queuing to register at six in the morning, and by the time he and his father arrived at nine, more than a thousand people were already ahead of them. His father forced his way through the crowd, caught hold of the host, and said, "Let my son enter. I promise he'll surprise you!"
 
-Luckily Xiaohai already had a bit of a reputation, so the organizers made an exception and let him in, and he really did give them a surprise. He cut through the bracket all the way to the final, where he faced a twenty-year-old opponent without a trace of nerves while the whole hall cheered for him.
+Fortunately, Xiaohai had already earned a modest reputation, so the organizers made an exception and let him enter. He truly did surprise them, cutting through the bracket all the way to the final. There, facing a 20-year-old opponent, he showed no sign of nerves as the entire hall cheered him on.
 
-Xiaohai still remembers the first prize: a PlayStation 2, which Sony had only just released. It was hard to get hold of at the time and was quite a valuable thing. After he won, the magazine Digital Age gave him the first interview of his life.
+Xiaohai still remembers the first prize: a PlayStation 2, which Sony had only recently released. It was difficult to obtain and quite valuable at the time. After his victory, the magazine *Digital Age* gave him the first interview of his life.
 
 With media coverage his name spread further, and tournament invitations started arriving.
 
-In 2004, Xiaohai left Guangzhou for the first time, going to Shenzhen for a Shenzhen, Hong Kong and Macau tri-region tournament. Straight away he ran into Hong Kong's top players: a boy who looked like the singer Wang Leehom, whom everyone called Hong Kong Leehom, along with Ka Jai and Jueguzhiyou. In the end Xiaohai beat Hong Kong Leehom 9 to 8 in a grinding match to take the title.
+In 2004, Xiaohai left Guangzhou for the first time, traveling to Shenzhen for a tournament among players from Shenzhen, Hong Kong, and Macau. There he immediately encountered some of Hong Kong's best: a player who resembled the singer Wang Leehom and was consequently nicknamed Hong Kong Leehom, along with Ka Jai and Jueguzhiyou. Xiaohai eventually edged Hong Kong Leehom 9–8 in a grueling match to take the title.
 
-Next came a north versus south tournament held in Beijing. Only two players from the south were invited, Xiaohai and the man ranked first in Shenzhen. At that event Xiaohai met his old rival Cheng Long at the peak of his powers. Cheng Long was known then as the undefeated legend, and the story went that he had travelled alone to Shanghai and challenged more than a hundred of the best players there, one after another.
+Next came a North–South tournament in Beijing. Only two players from the south were invited: Xiaohai and Shenzhen's top-ranked player. There, Xiaohai met his old rival Cheng Long at the height of his powers. Cheng Long was known as the "undefeated legend," and was said to have traveled alone to Shanghai and challenged more than a hundred of its best players one after another.
 
-In the team event, Xiaohai beat Cheng Long. That single result made his name, and he was widely acknowledged as the strongest player of that era.
+Xiaohai defeated Cheng Long in the team event. That single victory made his name, and he became widely recognized as the strongest player of the era.
 
 Leaving Guangzhou showed him a bigger world. It turned out that in the distance, besides poetry, there were also this many strong players.
 
-Because early arcades were not connected to the internet, a lot of arcade players came to the internet late and remained a small, almost old-fashioned niche online. In 2004 a man in Shanghai built a forum called the KOF Alliance, which carried a national ranking that read a little like a wuxia novel, grouping the country's best players by compass direction.
+Because early arcades were not connected to the internet, many arcade players were late to go online. Even there, they remained a small and almost old-fashioned niche. In 2004, a man in Shanghai created a forum called the KOF Alliance. It featured a national ranking reminiscent of a wuxia novel, grouping the country's best players by compass direction:
 
-In the east, Zhu Jiaxin. In the west, Feng Bo. In the north, Xingguang Miejue. In the south, Xiaohai. And at the center, based in Wuhan, Zhong Shentong Cheng Long.
+In the east, Zhu Jiaxin. In the west, Feng Bo. In the north, Xingguang Miejue. In the south, Xiaohai. And in the center, based in Wuhan, Cheng Long—the "Central Divinity."
 
-Before 2014 Xiaohai almost never competed online. Emulators had allowed online matches since 2004, but the experience was poor. It was only in 2014, after he started streaming on Douyu, that he began playing online at all. Before that, he generally just held his post at the Dongsheng arcade in Guangzhou and waited for challengers to come to him.
+Before 2014, Xiaohai almost never competed online. Emulators had supported online matches since 2004, but the experience was poor. He began playing online only after he started streaming on Douyu in 2014. Until then, he generally held court at the Dongsheng arcade in Guangzhou and waited for challengers to come to him.
 
 ## The Hunan players arrive
 
-In 2005 Guangzhou put on a fairly large arcade event, held inside a sports arena, with two titles, The King of Fighters '97 and The King of Fighters '98. Every arcade in the city got a quota of entries, the prize money was ten thousand yuan, and it drew in a lot of players from outside the province. The word was that Hunan's very best had all come, among them Hei Pi, real name Luo Xun, who in 2006 would win the TGB final by beating Ogosho, the man regarded as the best all round King of Fighters player in Japan, as well as Sao Gao and others. All of them became long term rivals whom Xiaohai would face many times at home and abroad in the years that followed.
+In 2005, Guangzhou staged a major arcade tournament in a sports arena, featuring The King of Fighters '97 and The King of Fighters '98. Every arcade in the city received a quota of entries, and the 10,000-yuan prize pool drew many players from outside the province. Hunan's best were said to have come in force, including Hei Pi, whose real name was Luo Xun and who would defeat Ogosho—regarded as Japan's best all-around King of Fighters player—in the 2006 TGB final, as well as Sao Gao and others. They became long-term rivals whom Xiaohai would face repeatedly at home and abroad in the years ahead.
 
-The competition was fierce, with more than three hundred people in the elimination bracket for each title. Unlike other esports disciplines, fighting game matches are extremely short, so a whole year of hard practice can evaporate in the few minutes you spend on stage. It is brutal.
+The competition was fierce, with more than 300 players in the elimination bracket for each title. Unlike other esports disciplines, fighting game matches are extremely short. A whole year of grueling practice can evaporate in the few minutes you spend on stage. It is brutal.
 
-In the end Xiaohai beat Hunan's strongest players to take the title in The King of Fighters '97, and in '98 he swept aside every out of town player and reached the final against his Guangzhou teammate Da Kou, real name Su Haojun. Out of that run Xiaohai earned himself a nickname: the Guardian of Guangzhou.
+Xiaohai ultimately defeated Hunan's strongest players to win The King of Fighters '97. In '98, he swept aside every out-of-town player and met his Guangzhou teammate Da Kou, whose real name was Su Haojun, in the final. This run earned Xiaohai a new title: the Guardian of Guangzhou.
 
 The bigger his name grew, the more challengers came to test him.
 
 Before long, Xiaohai went from guarding Guangzhou to guarding China, because the international players started arriving in groups to take him on.
 
-In 2007, TGB, The Great Battle, an international invitational subtitled Stage of Kings and held at the Zhengyang arcade in Shanghai, gathered the best players from five places: mainland China, Japan, South Korea, Taiwan and Hong Kong, with five slots each.
+In 2007, The Great Battle (TGB), an international invitational subtitled "Stage of Kings" and held at Shanghai's Zhengyang arcade, brought together top players from five regions: mainland China, Japan, South Korea, Taiwan, and Hong Kong, with five slots for each.
 
-Among the better known names were Taiwan's Demon King Zou Nianwei, Hong Kong Leehom, and Japan's Cap and Slap Man. Slap Man was quite a character. He would slap himself hard across the face after every round, win or lose, to fire himself up, and seeing it live gave the whole thing a real sense of drama.
+Among the better-known names were Taiwan's "Demon King" Zou Nianwei, Hong Kong Leehom, and Japan's Cap and Slap Man. Slap Man was quite a character: after every round, win or lose, he slapped himself hard across the face to fire himself up. Seeing it live lent the match a tremendous sense of drama.
 
-Xiaohai had probably never seen anyone punish himself like that. In the singles event, he first knocked out the Taiwanese player and then beat the Korean number one, a man with blistering hand speed, before losing 1 to 2 to Slap Man.
+Xiaohai had probably never seen anyone punish himself like that. In the singles event, he first eliminated a Taiwanese player and then defeated South Korea's number one, a man with blistering hand speed, before losing 1–2 to Slap Man.
 
-In the team event, Xiaohai took down all five Korean players by himself, then reached the last man on the Japanese team and lost to Cap.
+In the team event, Xiaohai took down all five South Korean players by himself. He then fought his way to the final member of the Japanese team, only to lose to Cap.
 
-When Cap comes up, Xiaohai's face fills with disbelief. He says Cap played in a way he had never seen before, using loose, drifting moves that left you unable to tell whether the attack was coming high or low. That was how the team event was lost to Japan.
+At the mention of Cap, Xiaohai's face filled with disbelief. He said Cap played in a way he had never seen before, using fluid, elusive moves that made it impossible to tell whether the next attack would come high or low. That was how China lost the team event to Japan.
 
-In The King of Fighters '98, though, the stage belonged to Xiaohai alone. He brought out the one handed control technique he had invented himself and beat these players with it, which also infuriated the Japanese.
+In The King of Fighters '98, however, the stage belonged to Xiaohai alone. He unveiled a one-handed control technique of his own invention and used it to defeat the international field, provoking the Japanese players.
 
-The Japanese declared that they would bring back a squad of specialists who played nothing but The King of Fighters '98, and get their revenge.
+The Japanese declared that they would return with a squad of specialists devoted exclusively to The King of Fighters '98 and take their revenge.
 
-That chance came almost immediately. At the 2007 Beijing Jidou tournament, sponsored by the Shencai Feiyang arcade chain, the organizers rented a dedicated competition space inside a Wanda cinema, and ten of Japan's top King of Fighters '98 players came over. The first half finished tied 5 to 5. In the second half Xiaohai went up first and simply crushed all ten Japanese players in a row, beating the man billed as their strongest twice.
+That chance came almost immediately. For the 2007 Beijing Jidou Tournament, sponsored by the Shencai Feiyang arcade chain, the organizers rented a dedicated competition space inside a Wanda cinema. Ten of Japan's top The King of Fighters '98 players came to compete. The first half ended 5–5. Xiaohai stepped up first in the second half and demolished all ten Japanese players in succession, even defeating the man billed as their strongest twice.
 
 That was how the grudge with the Japanese players began. The video of Xiaohai's ten straight wins is below.
 
@@ -104,36 +104,36 @@ Video: [The King of Fighters '98 China versus Japan, Xiaohai wins ten in a row](
 
 Video: [The King of Fighters '98 China versus Japan team match, full event](http://v.youku.com/v_show/id_XMzE5NTAzMTk2.html), on Youku. This is the complete footage of the China versus Japan event, and it shows how fighting game competitions were run at the time.
 
-They say you should not chase a cornered enemy. Xiaohai did the opposite and pointed his sword at Japan, because the word was that across the sea there were a great many strong players.
+They say you should never pursue a fleeing enemy. Xiaohai did the opposite and pointed his sword toward Japan, because across the sea, it was said, there were many formidable players.
 
-In 2007, as soon as his second year high school final exams finished, Xiaohai flew straight to Shanghai for the Tougeki qualifier, came through it, and on his first ever trip abroad walked into the highest hall of Japanese fighting games.
+In 2007, as soon as his second-year high school final exams ended, Xiaohai flew directly to Shanghai for the Tougeki qualifier. He qualified successfully, and on his first trip abroad, entered the highest arena of Japanese fighting games.
 
-Tougeki was a Japanese organization devoted to running tournaments for every fighting game. It began in 2003 and held its final edition in 2012, with thirty two slots worldwide and nine titles, three of them played each day across three days. The prize money was not high, one hundred thousand yen for first place, but the titles carried enormous weight, because they represented the highest level of fighting games in the world.
+Tougeki was a Japanese tournament series spanning the full range of fighting games. It began in 2003 and held its final edition in 2012. The competition featured 32 slots worldwide and nine titles, with three titles played on each of its three days. The prize money was modest—100,000 yen for first place—but a Tougeki championship carried enormous prestige, representing the highest level of fighting game competition in the world.
 
-In 2007 Tougeki was held alongside the Tokyo Anime Fair. Xiaohai says the atmosphere in the hall was excellent and the promotional videos were very professionally made. What he discovered, though, was that before the last eight the host gives you no chance to speak at all. Facing all the disadvantages of playing away from home, Xiaohai was carrying enormous pressure, and that is what finally produced the defiant declaration at the start of this chapter.
+In 2007, Tougeki was held alongside the Tokyo Anime Fair. Xiaohai said the atmosphere in the venue was excellent and the promotional videos were highly professional. He discovered, however, that the host gave players no opportunity to speak before the top eight. Facing every disadvantage of competing away from home, Xiaohai was under immense pressure. That was what produced the defiant declaration at the beginning of this chapter.
 
-He had barely finished saying it when he nearly lost. He ran into Yang, Taiwan's number one, whose opening character took out two of his to start, and then, at his third character, both his character and his opponent's went down at the same instant, an extremely rare double knockout. Heaven really was on Xiaohai's side. He won the replayed round, beat Yang and advanced to the last four.
+He had barely finished speaking when he nearly lost. His opponent was Yang, Taiwan's number one. Yang's opening character immediately eliminated two of Xiaohai's. When Xiaohai was down to his third character, both fighters fell at exactly the same moment—an extremely rare double knockout. Heaven truly seemed to be on Xiaohai's side. He won the replayed round, defeated Yang, and advanced to the semifinals.
 
-In the final he met a Chinese player, the Zhong Shentong mentioned earlier, Cheng Long. This is how Cheng Long is described in his Baidu Baike entry: in the fighting game world he is famous for his skill with female characters. Someone once said of Cheng Long that he used non mainstream characters yet was always ahead of the mainstream ones, and he created the practical playstyle for Kagura Chizuru.
+In the final, he met another Chinese player: Cheng Long, the "Central Divinity" mentioned earlier. Cheng Long's Baidu Baike entry describes him as renowned in the fighting game community for his command of female characters. One commentator said of him, "He uses off-meta characters, yet always stays ahead of the meta." He pioneered a competitive playstyle for Chizuru Kagura.
 
-Before Cheng Long, the general view was that Kagura Chizuru was slow, had few moves, and could not stand up to the traditionally strong characters. It was only after people saw Cheng Long's Kagura Chizuru that they understood how powerful the character really was, and everyone rushed to copy him. That is why there is a saying in the King of Fighters community: before Cheng Long there was no Kagura, and after Cheng Long everyone plays Kagura.
+Before Cheng Long, players generally considered Chizuru Kagura slow, limited in her moves, and unable to compete with the traditionally dominant characters. Only after seeing Cheng Long's Chizuru did people understand how powerful she could be, and players rushed to imitate him. Hence the saying in the King of Fighters community: "Before Cheng Long, there was no Chizuru; after Cheng Long, everyone played Chizuru."
 
-He also used his superhuman reactions to produce the invincible confirm with Mai Shiranui, to a degree that left King of Fighters players in awe. Many recordings of his matches circulated online as well, with signature characters including Kagura Chizuru, Mai Shiranui, Mature, Leona, Athena and King, all of them jaw dropping.
+With his superhuman reactions, he also performed "invincible hit-confirms" with Mai Shiranui at a level that left King of Fighters players in awe. Many recordings of his matches circulated online. His signature characters included Chizuru Kagura, Mai Shiranui, Mature, Leona, Athena, and King, and his play with each was astonishing.
 
-In the 2007 Tougeki final he lost narrowly to Xiaohai, the rising star from Guangdong province, took second place, and afterwards faded out of the King of Fighters scene.
+In the 2007 Tougeki final, Cheng Long narrowly lost to Xiaohai, the rising star from Guangdong Province, and finished second. He later faded from the King of Fighters scene.
 
 This is the cruelty of competition. The loser leaves, the winner stays, and the receding figures of countless heroes live on only in our memory.
 
-Xiaohai won, and he delivered on his own declaration. The video of that defiant moment on stage became a classic that young people back home passed around from hand to hand. China's first fighting game world champion. It made many people outside the fighting game community not only aware of him, but also interested in fighting game events, which was an enormous contribution to the discipline.
+Xiaohai won and made good on his declaration. The video of that defiant moment on stage became a classic passed eagerly among young people back home. As China's first fighting game world champion, he brought himself to the attention of many people outside the fighting game community and inspired them to follow its tournaments, making an enormous contribution to the discipline.
 
 Fame did not make him give up his studies. He turned down a great many tournament invitations, and a year later he got into university, exactly as he had hoped.
 
-Today, with university behind him, Xiaohai has become a professional player. Qanba, the world renowned arcade stick manufacturer, sponsors him year round to compete abroad: EVO in Las Vegas, Canada Cup, Shadowloo Showdown in Australia, and this year's five hundred thousand dollar Capcom tournament. As I write this article, he is playing in the qualifiers in Thailand.
+By the time of writing, Xiaohai had graduated from university and become a professional player. Qanba, the world-renowned arcade stick manufacturer, sponsored him year-round to compete abroad: EVO in Las Vegas, Canada Cup, Shadowloo Showdown in Australia, and that year's US$500,000 Capcom tournament. As I wrote the article, he was competing in the qualifiers in Thailand.
 
-Arcade fighting games were one of the earliest esports disciplines in China, and yet their development followed a completely different path from the mainstream esports titles. Part of the reason is the restrictions placed on arcades across most of the country, particularly in the inland regions, and part of it is that for a very long time they sat too far from the internet, with broadcasting and online play both too inconvenient. Those problems have only begun to improve in recent years.
+Arcade fighting games were among China's earliest esports disciplines, yet their development followed a completely different path from that of mainstream esports titles. One reason was the restrictions placed on arcades across much of the country, especially in inland regions. Another was their long separation from the internet, which made both broadcasting and online play inconvenient. These problems had only begun to improve in the years before this chapter was written.
 
 I hope more people will pay attention to fighting games, and to Xiaohai, Zeng Zhuojun.
 
-Oh, and one more thing. On his third trip to play fighting games, Xiaohai beat that obnoxiously laughing man so badly that the man could not win a single round.
+Oh, and one more thing. On his third trip to play fighting games, Xiaohai beat that obnoxiously laughing opponent so decisively that the man could not win a single round.
 
-The King of Fighters: Xiaohai, Zeng Zhuojun
+King of Fighting Games: Xiaohai, Zeng Zhuojun
