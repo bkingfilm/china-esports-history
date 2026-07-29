@@ -17,6 +17,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 - [Chapter 24. When Li Xiaofeng Became Sky](24-when-li-xiaofeng-became-sky.md), the Warcraft III world champion, written in 2005 before his WCG titles (reviewed against the Chinese original)
 - [Chapter 33. TI4 World Champion and Newbee Captain: Zhang Ning](33-zhang-ning-xiao8-newbee-ti4-champion.md), the captain known as xiao8, who won The International 2014 with Newbee (working translation awaiting review)
 - [Chapter 37. King of Fighting Games: Xiaohai, Zeng Zhuojun](37-xiaohai-zeng-zhuojun-king-of-fighters.md), China's first fighting game world champion, who won The King of Fighters '98 at Tougeki 2007 (reviewed against the Chinese original)
+- [Chapter 39. The Ageless Youth of the StarCraft Old Boys](39-starcraft-old-boys-ageless-youth.md), the four StarCraft veterans who became streamers in 2012 and carried their catchphrases into mainstream Chinese pop culture (working translation awaiting review)
 
 ## Help improve these translations
 
