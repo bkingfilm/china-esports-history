@@ -4,113 +4,113 @@
 >
 > First published in the author's Zhihu column on July 28, 2014: https://zhuanlan.zhihu.com/p/19810782
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on July 29, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
-Zhang Ning says that when they won the TI4 grand final his mind went completely blank. Friends told him he moved through the award ceremony like a sleepwalker, and he agrees that he really did think he was dreaming. For years he had watched other people take championships and imagined himself on a champion team. Now he actually was a champion, and it was not until he woke up the next day that he believed it was not a dream.
+Zhang Ning said that his mind went completely blank when they won the TI4 grand final. Friends told him that he moved through the award ceremony like a sleepwalker, and he admitted that he truly thought he was dreaming. For years, he had watched other people win championships and imagined himself on a championship team. Now he really was a champion. Only when he woke the next morning did he believe it was not a dream.
 
-The following day, news outlets all over the world reported that Newbee, Zhang Ning's team, had won the TI4 Dota 2 world championship in Seattle, in the United States. Almost every report focused on the same thing: the prize money of more than 30 million yuan.
+The following day, news outlets around the world reported that Newbee, Zhang Ning's team, had won the TI4 Dota 2 world championship in Seattle. Almost every report focused on the same thing: the prize money of more than 30 million yuan.
 
 Since so many people have already talked about the money, let us talk about the person.
 
-Zhang Ning was born on December 14, 1989 by the lunar calendar, in Shaoyang, Hunan. Online he goes by xiao8. The name traces back to the handle he used in Fantasy Westward Journey, Xiaoxiao, meaning little little. When he registered on the VS platform to play Dota, he found xiao1 through xiao7 were all taken, and so xiao8 it was.
+Zhang Ning was born in Shaoyang, Hunan, on the 14th day of the 12th lunar month in 1989. Online, he goes by xiao8. The name came from Xiaoxiao, the handle he had used in Fantasy Westward Journey. When he registered on the VS platform to play Dota, he found that xiao1 through xiao7 were already taken. So he became xiao8.
 
 His father was a construction contractor and his mother a housewife. He has a brother five years older than him.
 
-In theory this should be the story of a rich kid. The family was reasonably well off while he was growing up, and his mother's main occupation these days is going around collecting rent. But in Zhang Ning's own words, his parents inherited one of China's ancient educational virtues: stinginess. Sorry, strictness. And so the story took on the rhythm of the landlord and Yang Bailao, the perpetually indebted tenant from the opera The White Haired Girl.
+In theory, this should have been the story of a rich kid. His family was reasonably well off while he was growing up, and his mother's main occupation by the time of writing was collecting rent. But in Zhang Ning's words, his parents had inherited one of China's ancient educational virtues: stinginess. Sorry, strictness. And so the story began to resemble the landlord and the indebted tenant Yang Bailao from *The White-Haired Girl*.
 
-In primary school Zhang Ning was in fact an excellent student, usually first in the entire school. Everyone liked him, every teacher praised him, and his parents were proud of him. So they promised him a computer if he also came first in the school in his middle school entrance examination.
+In primary school, Zhang Ning was an excellent student who usually ranked first in the entire school. Everyone liked him, every teacher praised him, and his parents were proud. They promised to buy him a computer if he also ranked first in the school on the senior high school entrance examination.
 
-That was a real inducement. Until then, going to a gaming cafe was not only expensive, it also meant being hauled out and beaten by his father.
+That was a powerful incentive. Until then, visiting an internet café was not only expensive, but also risked being dragged out and beaten by his father.
 
-He did come first in the school. The computer was forgotten entirely. Zhang Ning, who had been hit his whole childhood, did not dare ask his overbearing parents for a reason, and started middle school in a state of dejection. He also started to rebel.
+He did rank first in the school. The promised computer was then forgotten entirely. Zhang Ning, who had been beaten throughout childhood, did not dare question his overbearing parents. He entered the next stage of school dejected and increasingly rebellious.
 
 From then on he was extremely unruly. Remember how, in middle school, the teacher would seat the most difficult kid in the class on his own next to the podium? Do not laugh at that kid. He might grow up to win a world championship.
 
 Zhang Ning's relationship with his parents used to be very bad. His father was domineering and either hit him or shouted at him. His mother had a sharp tongue and a soft heart, but home life still left him feeling suffocated. The harder a child is pressed down when small, the harder he pushes back in adolescence.
 
-So Zhang Ning drifted into life as a small-time delinquent, skipping school to play games and causing trouble everywhere. His parents were summoned to the school every week. In 2006, in his second year of senior high school, he took leave from school and opened a power-leveling studio for Fantasy Westward Journey with three or four friends. After expenses, his share came to more than ten thousand yuan a month. That was serious money, but for a sixteen-year-old it only made things more confusing. At that age he needed nothing and had no idea how to spend it, so what was the point of earning so much?
+Zhang Ning drifted into life as a small-time delinquent, skipping school to play games and causing trouble everywhere. His parents were summoned to the school every week. In 2006, during his second year of high school, he left school and opened a Fantasy Westward Journey power-leveling studio with three or four friends. After expenses, his share exceeded 10,000 yuan a month. That was serious money, but for a 16-year-old, it only made life more confusing. At that age, he needed little and had no idea how to spend the money. What was the point of earning so much?
 
 So when his father asked whether he wanted to keep studying, he decided that going out to see something of the world would not hurt, and went to Zhongshan, in Guangdong, to study computer software.
 
-Farther from home, his studies actually improved. He liked computer programming very much. But he was lonely. He could not understand the local language, knew nothing and nobody in the place, and had not one friend around him. All he could do was sit in a gaming cafe every day and talk over voice chat with his friends back in Shaoyang. Around this time, a game called Zhen Sanguo Wushuang, True Dynasty Warriors, began spreading through the Hunan circle.
+Far from home, his studies actually improved. He loved computer programming, but he was lonely. He could not understand the local language, knew neither the place nor its people, and had no friends nearby. He spent each day in an internet café talking over voice chat with friends back in Shaoyang. Around this time, a Warcraft III custom map called *Zhen San Guo Wu Shuang* began spreading through Hunan gaming circles.
 
-That game really was the cradle of China's professional Dota players. A great many of the famous esports professionals who came later had been opponents and teammates in their Zhen Sanguo Wushuang days. It was there that Zhang Ning met an opponent who would have a large influence on the course of his life: ZSMJ, Zhu Sima Ji.
+That game was truly a cradle for China's professional Dota players. Many famous professionals who emerged later had first been teammates or opponents in *Zhen San Guo Wu Shuang*. It was there that Zhang Ning met an opponent who would profoundly influence his life: ZSMJ, whose Chinese player name was Zhu Sima Ji.
 
-In 2009, Zhang Ning was still playing Zhen Sanguo Wushuang when he saw ZSMJ, who had already switched to Dota, take the SMM world championship in Kuala Lumpur with the LGD team of Wu Sheng, better known by his handle 2009. Zhang Ning started moving over to Dota, and for half a year he played Zhen Sanguo Wushuang and practiced Dota side by side.
+In 2009, Zhang Ning was still playing *Zhen San Guo Wu Shuang* when he saw ZSMJ, who had already switched to Dota, win the SMM world championship in Kuala Lumpur with Wu Sheng's LGD team. Wu Sheng was better known by his player ID, 2009. Zhang Ning began transitioning to Dota and spent six months playing *Zhen San Guo Wu Shuang* while also practicing Dota.
 
-His respectable record in the Zhen Sanguo Wushuang era meant the switch was noticed quickly. ZSMJ was the first to hold out an olive branch, telling him there was a chance to join LGD, since 2009 had already retired and the team was short a core player.
+His strong record in *Zhen San Guo Wu Shuang* meant that his transition quickly attracted attention. ZSMJ was the first to approach him, saying that Zhang Ning might have a chance to join LGD. The player 2009 had retired, leaving the team short of a core player.
 
-A team with a world championship behind it was an attractive prospect, so Zhang Ning settled in and practiced Dota for a month in the number one room on the VS platform.
+A team with a world championship behind it was an attractive prospect. Zhang Ning focused on Dota and spent a month practicing in the top room on the VS platform.
 
 This was when Zhang Ning set himself a goal: turn professional, and win a world championship.
 
 Unfortunately, LGD's former player Xiaochi suddenly rejoined the team. There was no longer a place for Zhang Ning, and the whole thing had to be dropped.
 
-His luck did not run out, though. Another well-known Dota professional, xB, sought Zhang Ning out and invited him to join CH, a strong domestic team in Chengdu whose roster included LongDD. xB had even bought his plane ticket, and Zhang Ning travelled from Shaoyang to Changsha to catch the flight to Chengdu.
+His luck had not run out. Another well-known Dota professional, xB, contacted Zhang Ning and invited him to join CH, a strong Chengdu team whose roster included LongDD. xB even bought his plane ticket, and Zhang Ning traveled from Shaoyang to Changsha to catch the flight to Chengdu.
 
-At that moment YAO, a good friend in Changsha, argued hard for him to stay. A new team was being formed in Changsha, funded by a well-capitalized local businessman, made up entirely of local friends, and, most important of all, close to home. For someone who valued his friends the way Zhang Ning did, that decided it. He stayed, and the team became Dream.
+At that moment, his friend YAO urged him to stay in Changsha. A well-funded local businessman was forming a new team made up entirely of local friends. Most importantly, it was close to home. Zhang Ning valued friendship deeply, and that settled the matter. He stayed, and the team became Dream.
 
 The Dream roster was YAO, DD, LI, Laoshu and Zhang Ning.
 
-The pay was 1,500 yuan a head, with no food or lodging, and Zhang Ning was delighted. Partly it was being back together with his friends, and partly it was that he had only just turned professional and everything felt new.
+The pay was 1,500 yuan per player, without food or lodging, and Zhang Ning was delighted. He was reunited with his friends, and as a new professional player, everything felt fresh.
 
-The results that year were not what he had hoped for. What stayed with him most was being taken to a Dota tournament in Thailand two weeks after the team was formed, then being eliminated in the first round, the round of sixteen, by a team nobody had ever heard of. That night everyone cried in the hotel, with no appetite for going out.
+The results that year fell short of expectations. His strongest memory was traveling to a Dota tournament in Thailand just two weeks after the team formed, only to be eliminated in the round of 16 by a team nobody had heard of. Everyone cried in the hotel that night and had no desire to go out.
 
-At home they took a lot of second and third places, because there was a team above them at the peak of its powers. That team was Ehome. The 2010 Ehome roster had 820, DC, Burning and KinGJ, and they cut down whatever stood in their way, mortal or Buddha alike. Zhang Ning and his teammates never took first place, but they were young and their team was new, so everyone was full of drive and kept encouraging one another.
+At home, they earned many second and third places because one team at the height of its powers stood above them: EHOME. Its 2010 roster featured 820, DC, Burning, and KinGJ, and swept aside everyone in its path. Zhang Ning and his teammates never finished first, but they were young and the team was new. They remained motivated and constantly encouraged one another.
 
 Everything seemed to be moving in a good direction. A world championship was not too far off. Zhang Ning and his teammates just needed a little more time.
 
-History is cruel. Shortly before Spring Festival in 2011, Dream was suddenly told to go to Beijing for a tournament. It was the middle of the Spring Festival travel rush, no seated train tickets were available, and the players stood the entire way to Beijing. Before they left, the team manager had also said something baffling: if they did not place in the top three at this event, that month's salary would not be paid.
+History is cruel. Shortly before the Spring Festival in 2011, Dream was suddenly ordered to attend a tournament in Beijing. The Spring Festival travel rush was underway, and no seats were available. The players stood for the entire train journey to Beijing. Before they left, the team manager made a baffling statement: if they failed to place in the top three, they would not receive that month's salary.
 
-Tired and bewildered, Dream took third. That month's salary was still not paid. On top of that, once everyone went home for the new year, the manager could no longer be reached, and the team fell apart just like that. It was fairly normal in the esports scene of the time. Many teams and clubs were not run as companies, the players did not even have contracts, and a team could be gone the moment someone said it was.
+Exhausted and bewildered, Dream finished third. The salary was still not paid. After everyone returned home for the new year, the manager became unreachable and the team simply dissolved. This was fairly normal in esports at the time. Many teams and clubs were not operated as companies, and players often had no contracts. A team could disappear overnight.
 
-Gold always finds a buyer, though. Before long, zhou, a fellow Hunanese Dota professional, and another professional called Gouge put together the CCM team and secured investment from a Beijing businessman who was willing to pay Zhang Ning 5,000 yuan a month with lodging. Zhang Ning, who wanted a professional career and a world championship, agreed, told his family he was going to Beijing for a job, and set out on a new road away from home.
+Talent always finds a home. Before long, fellow Hunanese Dota professional zhou and another professional known as Gouge formed CCM and secured investment from a Beijing businessman. They offered Zhang Ning 5,000 yuan a month with lodging. Still determined to become a professional and win a world championship, Zhang Ning accepted. He told his family that he was taking a job in Beijing and set out on a new journey away from home.
 
 The CCM roster was 430, DDC, zhou, Gouge and Zhang Ning.
 
-The dream lasted three months. After that the investor could not be reached. The team did win a few titles afterwards, including a Malaysian event called IPDC, but the organizer there walked off with the prize money outright. CCM sank into difficulty and nobody had much appetite for practice. Everyone played their own games, and Zhang Ning's dissatisfaction with the team kept deepening.
+The dream lasted three months. Then the investor became unreachable. The team later won several titles, including a Malaysian event called IPDC, but that organizer absconded with the prize money. CCM fell into difficulty, and nobody had much motivation to practice. Everyone played on their own, while Zhang Ning's dissatisfaction with the team deepened.
 
 Then came the night of the WCG China national final in August 2011, the same night described in the previous chapter of this history, when xiaoxiao and his teammates won the title as CCM's League of Legends squad.
 
-Wang Sicong, one of the directors of the Wanda group, sat down with everyone in CCM's Dota squad and announced that CCM had been formally acquired. The team would be renamed iG. The unpaid salaries were settled, salaries were promised at double the old level, and there was a signing fee as well. For Zhang Ning that meant a salary rising to ten thousand yuan, with a large sum of cash in hand the moment he signed.
+Wang Sicong, a director of the Wanda Group, met with CCM's entire Dota squad and announced that CCM had been formally acquired. The team would be renamed iG. Unpaid salaries were settled, future pay would double, and players would receive signing bonuses. For Zhang Ning, this meant a monthly salary of 10,000 yuan and a large cash payment as soon as he signed.
 
-Zhang Ning still decided to leave. It was not that he had anything against money. It was that the way the team had come apart when things went wrong had left him cold. What hardened his decision was a remark from his friend DDC: what do we want all that money for? It is enough that we enjoy playing together.
+Zhang Ning still decided to leave. He had nothing against money, but the team's disunity during its earlier crisis had left him bitterly disappointed. A remark from his friend DDC cemented the decision: "What do we need all that money for? Playing happily together is enough."
 
-Zhang Ning and DDC then accepted an invitation from their old friend zsmj and went to LGD, a team of four Hunan natives plus one Macanese. The roster was Zhang Ning, DD, DDC, YAO and ZSMJ.
+Zhang Ning and DDC then accepted an invitation from their old friend ZSMJ and joined LGD, a team of four Hunan natives and one player from Macau. The roster was Zhang Ning, DD, DDC, YAO, and ZSMJ.
 
-LGD was run at that point by RURU, the famously formidable woman of the Dota scene. She offered Zhang Ning 4,000 yuan a month with food and lodging, and the team trained in a duplex apartment in Tianjin. The pay was lower than iG's offer, but Zhang Ning was happy. He was back with his old friends, and he discovered that the training house actually had aunties to clean and cook. For the first time he felt that being a professional player was a happy thing.
+LGD was run at the time by RuRu, the famously formidable woman of the Dota scene. She offered Zhang Ning 4,000 yuan a month with food and lodging, and the team trained in a duplex apartment in Tianjin. The pay was lower than iG's offer, but Zhang Ning was happy. He was back with old friends, and the training house even had staff who cleaned and cooked. For the first time, he felt that being a professional player could be a happy life.
 
-There was a stretch when LGD's results were very poor. On the night they went no further than the top eight at WDC, ZSMJ came to Zhang Ning with red eyes and said his heart was no longer in it and that he planned to take a break.
+For a time, LGD's results were very poor. On the night the team exited WDC in the top eight, ZSMJ approached Zhang Ning with red eyes and said that his heart was no longer in the game. He planned to take a break.
 
 After WDC, ZSMJ, who had influenced Zhang Ning's career so deeply, retired. The team still had to move forward, so LGD used the inter-club transfer agreement to buy Sylar, formerly of WE, and its results began to improve.
 
-From there everything went smoothly. LGD had a rule that prize money all went to the players, with no club share, and that reaching a final earned you a raise. Within a year every player was on more than ten thousand yuan. China's esports environment kept getting better, and Zhang Ning grew more famous.
+From there, everything went smoothly. LGD gave all prize money to the players without taking a club share, and reaching a final earned players a raise. Within a year, every player was earning more than 10,000 yuan a month. China's esports environment continued to improve, and Zhang Ning became increasingly famous.
 
-In 2014, Zhang Ning had been planning to retire when his old friend Wang Yue talked him round. He joined the newly formed Newbee and set out once again with Banana, Gouge, HAO and MU to chase the world championship he had dreamed of.
+In 2014, Zhang Ning was planning to retire when his old friend Wang Yue persuaded him to reconsider. He joined the newly formed Newbee and set out once again with Banana, Gouge, HAO, and MU to pursue his dream of a world championship.
 
 ## TI4, the journey that made the dream real
 
-Zhang Ning says that in 2012, when his LGD team played the TI2 grand final in Seattle, the run up to it had gone too smoothly. Seventeen straight wins carried them into the winners' bracket final and they assumed the championship was right in front of them. Then, in that match, the whole team inexplicably fell into all kinds of miscommunication and elementary mistakes and beat themselves. After the loss their heads went too, and they finished only third. A great pity.
+Zhang Ning said that when LGD competed at the TI2 world finals in Seattle in 2012, the early stages went too smoothly. Seventeen consecutive wins carried them into the winners' bracket final, and they believed the championship was within reach. In that match, however, the entire team inexplicably suffered communication failures and made elementary mistakes. They defeated themselves. After the loss, their mentality collapsed and they finished only third. It was a bitter disappointment.
 
-The TI4 grand final in 2014 was exactly the reverse. Newbee kept losing through the group stage and only squeezed into the top eight through a tiebreaker, as though a life had been snatched back from the edge of a cliff. They played everything afterwards with particular care, but the pressure was enormous. Nobody had an appetite for meals, and at night Zhang Ning would lie in bed thinking for hours about how to play the next day before he could sleep. It was that pressure, in the end, that brought out the whole team's potential.
+The TI4 world finals in 2014 were exactly the reverse. Newbee kept losing during the group stage and squeezed into the top eight only through a tiebreaker, as if snatching back a life at the edge of a cliff. From then on, they treated every match as precious, but the pressure was immense. Nobody had an appetite. Each night, Zhang Ning lay awake for hours planning the next day's games before he could sleep. In the end, that pressure brought out the team's full potential.
 
 ## A nerve-shredding grand final
 
-There were two days off before the grand final, and Newbee barely ate or slept through them. They spent the whole time watching their opponents' matches and studying them, afraid of missing a single detail, to the point that they never touched a keyboard or mouse. So they lost the first game of the final against VG, partly from rustiness and partly from the weight of the pressure. Fortunately, after losing that game, everyone agreed the problem was not ability but form, and that if they could get themselves back in shape they could win. They took the TI4 world championship 3 to 1.
+There were two days off before the grand final, and Newbee barely ate or slept. They spent the entire time watching and studying their opponents' matches, afraid of missing a single detail. They did not touch a keyboard or mouse. In the opening game against VG, rust and pressure contributed to a loss. Fortunately, the team agreed afterward that the problem was not ability but form. If they could recover their rhythm, they could win. Newbee took the TI4 world championship 3 to 1.
 
 ## Chasing a girl takes the same care as chasing a world championship
 
-Zhang Ning today really has been promoted, had his pay raised, become a world champion, married a beautiful and wealthy woman, and reached the summit of his life. Except that he married the beautiful and wealthy woman first.
+By the time of writing, Zhang Ning had truly reached the summit of his life: a higher salary, a world championship, and marriage to a beautiful, successful woman. Except that the marriage came first.
 
 Start a family, then build a career. Sometimes that order makes a good deal of sense.
 
-In 2011, in the darkest hour before the dawn, Zhang Ning met Zhao Jie, the Shanghai woman who would become his wife. Zhao Jie was already a small-time celebrity by then. Zhang Ning was a gaming nobody who did not even have a stable life. Zhao Jie did not play games at first either. She had come to WCG to get an autograph for a friend and could not even follow Dota.
+In 2011, during the darkest hour before the dawn, Zhang Ning met Zhao Jie, the Shanghai woman who would become his wife. Zhao Jie was already something of a minor celebrity. Zhang Ning was an unknown gamer without even a stable life. Zhao Jie did not play games. She had come to WCG to get an autograph for a friend and could not even understand Dota.
 
-A rejected confession, a long distance relationship, and a Shanghai mother-in-law who disapproved. In most people's eyes, those are three mountains.
+A rejected confession, a long-distance relationship, and opposition from a Shanghai mother-in-law. To most people, these would be three enormous obstacles.
 
 But Zhang Ning, introverted and not much of a talker, decided at first sight that this cheerful, talkative girl was the one he had dreamed of. As a Capricorn, he either does not act at all, or, once he has fixed on a target, holds on with total persistence.
 
-The mountains were cleared one by one. His mother-in-law even began staying up all night to watch his matches. In April 2014 the two of them registered their marriage. Note that all of this happened before the 30 million yuan in prize money. Zhang Ning's case teaches us that chasing a girl really does take care, and that everything else is an excuse.
+Zhang Ning overcame each obstacle in turn. His mother-in-law even began staying up all night to watch his matches. The couple registered their marriage in April 2014. Remember, all of this happened before the 30 million yuan in prize money. Zhang Ning's story teaches us that pursuing someone takes genuine dedication. Everything else is an excuse.
 
 Just like chasing a dream.
 

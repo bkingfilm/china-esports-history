@@ -4,87 +4,87 @@
 >
 > First published in the author's Zhihu column on December 2, 2015: https://zhuanlan.zhihu.com/p/20375408
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on July 29, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
-On January 1, 2012, four esports veterans who had each been playing StarCraft for more than a decade formed Asia's premier male idol group. Sorry, comedy troupe: the StarCraft Old Boys. They were F91, a former professional StarCraft player; Xiaose, a professional StarCraft caster; MsJoy; and Zhou Ning, who worked behind the scenes in esports.
+On January 1, 2012, four esports veterans who had each played StarCraft for more than a decade formed Asia's premier male esports idol group. Sorry, comedy troupe: the StarCraft Old Boys. They were F91, a former professional StarCraft player; Xiaose, a professional StarCraft commentator; MsJoy; and Zhou Ning, an esports producer and operator.
 
 From the day it was founded, the group did everything its own way, whether it was playing StarCraft matches or producing commentary shows.
 
-Take the IQ Cup, the tournament they ran. Winning and losing was never the point. The point was to mock yourself, mock each other, and crush the other man's intelligence. So the matches were full of dirty tricks and strange schemes, and improbable comebacks.
+Take the IQ Cup, their own tournament. Winning and losing were never the point. The real objectives were self-mockery, mutual ridicule, and outsmarting the other player. Matches were filled with dirty tricks, bizarre schemes, and astonishing comebacks.
 
-They also invented plenty of rules. If you lost but refused to accept it and wanted another chance to turn things around, you had to call your opponent haogege, dear big brother, in front of the whole audience before play could continue.
+They also invented plenty of rules. If you lost, refused to accept it, and wanted another chance to turn the match around, you had to call your opponent "hao gege," or "dear big brother," in front of the entire audience before play could continue.
 
-It was exactly this kind of creativity, funny and unexpected, that kept the Old Boys' shows going year after year, with the audience growing all the while.
+This kind of funny and unexpected creativity kept the Old Boys' shows alive year after year as their audience continued to grow.
 
-They brought a lot of people a lot of joy, and at the same time they made the public take another look at StarCraft II, pulling a complicated and hard to follow game back into the sight of ordinary players.
+They brought joy to countless viewers while encouraging the public to take another look at StarCraft II. They returned a complex and difficult esports title to the attention of ordinary players.
 
 The StarCraft Old Boys are very popular now.
 
-Even the catchphrases they threw out on their shows without thinking, things like haogege, kill Huang Xudong, esports poison milk, and how can you lose with mutalisks in his face, broke out of the esports world long ago and became part of mainstream popular culture.
+Even catchphrases they coined casually on their shows, such as "hao gege," "kill Huang Xudong," "esports poison milk," and "how could you lose with mutalisks in his face," escaped the esports community and entered mainstream popular culture.
 
 How did they do it?
 
 StarCraft is an esports title whose golden age is behind it. The StarCraft Old Boys are four veterans who can no longer be called young.
 
-On one side, the pressure of a man in his thirties with a wife and a child. On the other, the opportunity and the innovation of an era in which esports was changing completely.
+On one side stood the pressures facing men in their thirties with wives and children. On the other stood the opportunities and innovations of an era in which esports was changing completely.
 
-Change or stay the same? Follow or not? It was probably never an easy or simple transition.
+Change or remain the same? Keep up or fall behind? This was never going to be an easy transition.
 
-Xiaose, whose real name is Huang Xudong, was born on November 3, 1982, in Zigong, in the western Chinese province of Sichuan. His family was ordinary, but a neighbor of theirs ran a large business and loved games. Thanks to that neighbor, Xiaose grew up playing early consoles at his house: the Atari, the Nintendo, the Super Nintendo, machines you did not often see inland. It shaped the rest of his life.
+Xiaose, whose real name is Huang Xudong, was born on November 3, 1982, in Zigong, Sichuan Province, in western China. His family was ordinary, but a wealthy neighbor loved video games. Thanks to him, Xiaose grew up playing early consoles at the neighbor's home, including Atari, Nintendo, and Super Nintendo systems that were rarely seen in inland China. The experience shaped his life.
 
-F91, whose real name is Sun Yifeng, was born on February 17, 1983, in Hangzhou, in the eastern Chinese province of Zhejiang. His family was comfortable, and he had a whole crowd of neighbors who loved to play. All of them were gamers, and F91 went along with them, spending every summer night at the internet cafe playing Red Alert and Age of Empires. He loved competing against other people, and at one point he set his heart on becoming a professional billiards player. It shaped the rest of his life.
+F91, whose real name is Sun Yifeng, was born on February 17, 1983, in Hangzhou, Zhejiang Province, in eastern China. His family was well off, and he grew up among neighbors who loved games. He followed them to internet cafés, spending entire summer nights playing Red Alert and Age of Empires. He loved competing with others and once dreamed of becoming a professional pool player. Those experiences also shaped his life.
 
-So the story of Mencius's mother choosing her neighbors really does have something to it.
+Perhaps the old story of Mencius's mother choosing the right neighbors really was onto something.
 
 Between 1998 and 2000, the same game entered both of their lives: StarCraft.
 
-Xiaose started playing StarCraft in his first year of high school and joined a local team, ZG Zigong. Through the platform that StarCraft and the internet created together, he slowly worked his way into esports. Later, while at university, he became a reporter for CEG's Sichuan division, and he earned pocket money on the side writing game articles for various magazines.
+Xiaose started playing StarCraft in his first year of high school and joined a local team, ZG Zigong. Through the world created by StarCraft and the internet, he gradually entered the esports community. At university, he became a reporter for CEG's Sichuan division and earned pocket money by writing gaming articles for magazines.
 
-F91 could not play StarCraft at first. His friends were all playing 3v3 and 4v4, and the only way he could join them was the humiliating job of playing the farmer, doing whatever the others told him to do. After seven or eight months of that, he suddenly realized nobody around him could beat him anymore. So he moved on to the AsiaGame battle.net server to look for stronger opposition. By 2001 he was winning the Shanfeng Cup, a Hangzhou tournament, every week, in a field full of local players and strong players from Shanghai, and he was starting to be known in the city.
+F91 could not play StarCraft at first. His friends played 3v3 and 4v4 matches, and the only way he could join was by taking the humiliating role of their "worker," doing whatever the others ordered. After seven or eight months, he suddenly realized that nobody around him could beat him. He moved to the AsiaGame Battle.net server in search of stronger opponents. By 2001, he was winning the weekly Shanfeng Cup in Hangzhou against fields filled with strong local and Shanghai players. His name began to spread through the city.
 
 In 2004, university was almost over.
 
-Xiaose says he got lucky in his final year. A former colleague from CEG had started an esports website called Jingxing, and an internship happened to be going.
+Xiaose said that he got lucky in his final year. A former CEG colleague had founded an esports website called Jingxing, and an internship happened to be available.
 
-So he went to Guangzhou on his own for six months. It was the first time he had traveled far from home, and the world outside was a wonderful place. At Jingxing he learned how to make videos and met a lot of people. MsJoy was one of them, and so was Jianxin, who made the Jianxin patch pack for Warcraft III. They were all on that team at the time.
+He went alone to Guangzhou for six months. It was the first time he had traveled far from home, and the outside world was full of possibilities. At Jingxing, he learned to produce videos and met many people. MsJoy was among them, as was Jianxin, creator of the Jianxin patch pack for Warcraft III. They all belonged to the same team at the time.
 
-When the internship ended six months later, he went home to a difficult choice. His family was traditional and had already pulled a lot of strings to line up a job for him, and they pushed him every day to go and take it.
+When the internship ended six months later, he returned home to a difficult choice. His traditional family had used its connections to arrange a job for him and pressed him every day to accept it.
 
-At that critical moment, Xiaose decided that his life should not be arranged for him like that. Against his family's wishes, he took every yuan he had earned writing articles and bought a one-way plane ticket to Guangzhou. It was the first time he chose his own path.
+At that critical moment, Xiaose decided that his life should not be arranged for him. Against his family's wishes, he spent all the money he had earned from writing on a one-way ticket to Guangzhou. For the first time, he chose his own path.
 
 After that, the shows he made at Jingxing, among them Xiaose Teaches You to Play StarCraft and StarCraft Night, drew a great deal of attention.
 
-In 2006, the CEG event in Guangzhou was short a caster. Laoyu and 5V, who worked for CEG, remembered that Xiaose had once been a CEG reporter, so they called him in to fill the gap. It was the first time he had cast on stage, and it went so well that he was invited to the Chengdu and Xi'an stops as well. From then on Huang Xudong was happily walking a road of no return.
+In 2006, the CEG stop in Guangzhou was short of a commentator. CEG staff members Laoyu and 5V remembered that Xiaose had once worked as a reporter for the organization and called him in. It was his first time commentating on stage, and it went so well that he was invited to the Chengdu and Xi'an stops too. From then on, Huang Xudong happily followed a road of no return.
 
 F91, in that same period, says he was miserable.
 
-After making a name for himself in Hangzhou he joined YJ Yijing Network and campaigned all over the country, and he was enjoying himself. Then, just as things were going well, he was ordered home to take over the family's wholesale seafood business. He fought it and lost, and spent the better part of a year in the seafood trade with his heart elsewhere. He was still playing StarCraft, but his dream felt further away all the time.
+After making a name for himself in Hangzhou, he joined the YJ Yijing Network team and competed across the country. He was having the time of his life. Then, at the height of his momentum, his family ordered him home to take over its wholesale seafood business. His resistance failed, and he spent more than half a year in the seafood trade while his heart remained elsewhere. He continued playing StarCraft, but his dream felt increasingly distant.
 
-Then, in June 2004, at a Lenovo Cup challenge event in Jinhua, Zhejiang, F91 pulled off an upset over Phoenix66, then the captain of China's national esports team. That rekindled his ambition of turning professional, and he walked away from the family business without hesitating.
+In June 2004, at a Lenovo Cup challenge event in Jinhua, Zhejiang, F91 upset Phoenix66, then captain of China's national esports team. The victory rekindled his ambition to turn professional, and he left the family business without hesitation.
 
 In 2005 it was Phoenix66 again. Something had come up at home, so he asked F91 to travel to Beijing in his place and represent the CEG Shanghai team. In that tournament F91 upset another famous StarCraft player, PJ, and made his name overnight.
 
-He was then introduced to the CEG Shandong team and became a professional player in earnest, only to run straight into the painful business of adjusting to a professional's state of mind: six losses in a row, then six wins in a row. He nearly fell apart and came close to quitting. After that slump and that surge, he finally won his first national title at the VS offline tournament at the end of 2005. It gave him his confidence, made him a nationally known player, and his ability was finally acknowledged.
+He was then introduced to the CEG Shandong team and formally became a professional player. He immediately endured the painful psychological adjustment to professional competition: six consecutive losses followed by six consecutive wins. He nearly broke down and came close to quitting. After those dramatic swings, he won his first national title at the VS offline tournament in late 2005. The victory restored his confidence, made him nationally known, and finally earned recognition for his skill.
 
-And so the seafood trade lost an heir and Chinese esports gained the Dog King of Jiangnan, dog being the Chinese nickname for the Zergling.
+The seafood trade lost an heir, and Chinese esports gained the Dog King of Jiangnan. In Chinese StarCraft slang, "dog" means Zergling.
 
-On Christmas Day 2006, Zhou Ning, who is only three months older than F91, left PLU and joined the newly founded NeoTV. NeoTV had money and ambition at that point, it was aiming at the WCG broadcast rights for the following year, and it was hiring.
+On Christmas Day 2006, Zhou Ning, only three months older than F91, left PLU and joined the newly founded NeoTV. The company had money and ambition, was targeting the following year's WCG broadcasting rights, and was rapidly hiring.
 
-Xiaose meanwhile was going through a trial of his own. Jingxing's investors had pulled out, and he had had to go back to Sichuan from Guangzhou. He was at a loss when Zhou Ning got in touch, and the two of them agreed almost immediately. Xiaose moved to Shanghai and joined NeoTV, where he went from doing whatever odd jobs needed doing to running competitions such as the NSL.
+Meanwhile, Xiaose was going through a trial of his own. Jingxing's investors had withdrawn, forcing him to return to Sichuan from Guangzhou. He felt lost when Zhou Ning contacted him. The two quickly reached an agreement, and Xiaose moved to Shanghai to join NeoTV. He started as a general assistant doing whatever was needed and eventually took charge of tournaments such as the NSL.
 
-The bad blood between PLU and NeoTV was also sown in this period. Xiaose had a hot temper, and being young, he said whatever came into his head, which made him the target of every kind of dispute for years afterwards. I described all of that in detail in an earlier chapter, PLU and NeoTV: A Tale of Grudges, so I will not repeat it here.
+The bad blood between PLU and NeoTV also began during this period. Xiaose had a fierce temper and, being young, spoke without restraint. For years afterward, this made him a target in every kind of dispute. I described that history in detail in an earlier chapter, *PLU and NeoTV: A Tale of Grudges*, so I will not repeat it here.
 
-One thing worth mentioning is what Xiaose said about 2008, when NeoTV decided to add a team exhibition event to the Chinese leg of WCG.
+One episode worth mentioning came in 2008, when NeoTV decided to add a team exhibition event to the Chinese leg of WCG.
 
-The company split into two camps, one arguing for Zhen San, another Warcraft III custom map, and the other arguing for Dota. The dispute inside the company became impossible, so it went to a vote, and at the decisive moment NeoTV's boss Ken, who played Dota himself, cast the deciding vote. That is how WCG China came to have a Dota event.
+The company split into two camps. One supported *Zhen San*, another Warcraft III custom map, while the other backed Dota. The argument became impossible to resolve, so the company held a vote. At the decisive moment, NeoTV boss Ken, himself a Dota player, cast the deciding ballot. That was how Dota became part of WCG China.
 
 Four teams were invited that year, EHome, CaNt, CD, and GooG, and EHome took the title.
 
 Xiaose says nobody imagined then that Dota would grow as large as it did. He himself was still casting StarCraft I.
 
-Then, in 2010, after the STX China versus South Korea StarCraft Masters held at the Shanghai World Expo, Xiaose, who had long been carrying too much and had been a target for attacks from every direction, announced that he was leaving StarCraft I commentary.
+In 2010, after the STX China versus South Korea StarCraft Masters at the Shanghai World Expo, Xiaose announced that he was leaving StarCraft I commentary. He had carried too much for too long and had become a target for attacks from every direction.
 
-Swallowing his frustration, Xiaose threw himself into practicing StarCraft II obsessively, at his peak playing seventy games in a single day. At the same time he watched Guo Degang's crosstalk routines every day, forcing himself to change the way he cast.
+Holding his frustration inside, Xiaose threw himself into StarCraft II practice and played as many as 70 games in a single day. At the same time, he watched Guo Degang's crosstalk routines every day and forced himself to change his commentary style.
 
 F91 says the atmosphere around StarCraft I in China was already turning bad between 2006 and 2010, although there were still strong players, who had even divided into a northern and a southern school.
 
@@ -92,47 +92,47 @@ The northern school: PJ, Leiche, Leilei, Fengzi, EVA, Xiaoming, and others.
 
 The southern school: F91, LX, Super, Liu Guohao, Beckham, Huang Feipeng, ChinaTTT, Jaystar, Rushgoon, and others.
 
-But F91 says that in those years the championships went back and forth among essentially four players, PJ, LX, Super, and F91, who were known as the Four Heavenly Kings of Chinese StarCraft. That was not good for the scene.
+F91 said that during those years, championships passed back and forth among essentially four players: PJ, LX, Super, and F91. They were known as the Four Heavenly Kings of Chinese StarCraft. Such dominance was not healthy for the scene.
 
 In 2010 many of the veteran StarCraft I players retired. F91 says he was not under much pressure at home; he had married in 2006, but his wife strongly supported his professional career, so he decided to keep playing and simply switched to StarCraft II.
 
-The switch to a new game with new ways of playing brought F91 an enormous sense of frustration and a hard fall. In 2011 he finished second in the Chinese division and went out in the last eight at the world event, losing to his Chinese teammate Xigua.
+The new game and its unfamiliar style brought F91 immense frustration and a painful loss of status. In 2011, he finished second in the Chinese division and reached the top eight at the world event, where he lost to his Chinese teammate Xigua.
 
 From one of the Four Heavenly Kings to being knocked out by a younger player: F91 had a lot to think about.
 
 At the end of 2012 F91's child was born, and his parents were getting old and needed looking after, so the idea of retiring began to form.
 
-At the same time Xiaose was in trouble of his own. The GSL broadcast rights he had just begun to make something of had been bought by another company, and he was left in the awkward position of having no matches to show.
+At the same time, Xiaose faced difficulties of his own. The GSL broadcasting rights that had just begun to show promise for him were purchased by another company, leaving him with no matches to broadcast.
 
-Misfortune is what fortune leans on. Sometimes people only move when they are forced to.
+Fortune often grows out of misfortune. Sometimes people move forward only when circumstances force them.
 
 2012 was destined to be a year when everything came together.
 
-Personal streaming sites appeared, Fengyun Live foremost among them, and a fan economy built on a Taobao shop plus an esports streamer had already been proven to work by several Dota casters.
+Personal streaming platforms led by Fengyun Live had appeared. Several Dota commentators had already proven that combining esports streaming with a Taobao shop could support a fan economy.
 
-F91 says that when Xiaose first called him in 2011 to say he wanted to put together a group called the StarCraft Old Boys, he was rather taken aback, because he had no idea what the thing would actually turn into. But he felt StarCraft was already part of his life, and playing matches and streaming with friends sounded like fun.
+F91 said that when Xiaose first called him in 2011 about forming a group called the StarCraft Old Boys, he was surprised. He had no idea what it might become. But StarCraft had already become part of his life, and playing matches and streaming with friends sounded enjoyable.
 
-And so, in 2012, the StarCraft Old Boys came into being. Xiaose, F91, and MsJoy were in front of the camera, and Zhou Ning ran things behind the scenes, managing the Taobao shop and the rest of the business.
+And so, in 2012, the StarCraft Old Boys came into being. Xiaose, F91, and MsJoy appeared on camera, while Zhou Ning handled operations behind the scenes, including the Taobao shop and the rest of the business.
 
-Zhou Ning says he owes particular thanks to Liu Yifeng of Xindong Games. The joint operation deal on the browser game SXD brought them their first pot of gold, which reassured them at a point when they were still hesitating and testing the water, and made them realize they could do things they had thought impossible.
+Zhou Ning said that they owed particular thanks to Liu Yifeng of Xindong Games. A joint operation deal for the browser game *Shen Xiandao*, abbreviated SXD, brought them their first substantial income. At a time when they were still hesitating and testing the waters, that success reassured them and showed that they could accomplish things they had once considered impossible.
 
-As their viewer numbers kept rising, official StarCraft campaigns started approaching them about collaborations too. Even so, the Old Boys' online shop earned very little at first.
+As their audience grew, official StarCraft promotions began approaching them for collaborations. Even so, the Old Boys' online shop earned very little at first.
 
-They kept learning and experimenting, and they changed the way they ran it, developing products from a player's point of view and putting real care into picking items that were good value. The brand's reputation improved, sales kept climbing, and they developed a whole range of goods printed with their catchphrases, which turned the shop into a channel for the culture growing up around the StarCraft Old Boys.
+They kept learning, experimenting, and changing their approach. They developed products from a player's perspective and carefully selected items that offered good value. The brand's reputation improved, sales continued to rise, and they created a range of products printed with their catchphrases. The shop became a channel through which StarCraft Old Boys culture could spread.
 
 F91 says Zhou Ning does a lot of important work behind the scenes and works very hard.
 
-Xiaose says F91 can take a joke, and that the two of them work together easily.
+Xiaose said that F91 could take a joke and that the two worked together with an easy rapport.
 
-I timidly brought up that famous award photo of F91 from years ago, the one captioned "Even XX Has a Spring." He did not get angry.
+I cautiously brought up that famous award photo of F91 from years earlier, captioned "Even XX Has a Spring." He did not get angry.
 
-F91 says the photo was taken by a very good friend of his. Once it had spread far and wide he did feel it was a bit embarrassing for a while, but he was close to the man who took it, so he let it go.
+F91 said that a close friend had taken the photo. After it spread widely, he found it embarrassing for a time. But because he was close to the photographer, he did not take it to heart.
 
 About the way the Old Boys mock each other on stream.
 
-F91 says they have known each other for more than ten years and all know where the others' weak spots are, so the jokes are always measured. The IQ Cup may be for entertainment, but everyone plays it seriously, especially when he is evenly matched with Xiaose. Before the game starts, he says, roar "kill Huang Xudong" and it is like having a god at your shoulder. The momentum is something else. Try it if you do not believe me.
+F91 said that they had known each other for more than ten years and understood one another's weak spots, so their jokes always stayed within bounds. The IQ Cup was entertainment, but everyone played seriously, especially when F91 and Xiaose were evenly matched. Before a game, he said, roar "Kill Huang Xudong!" and it feels as though divine help is at your side. The momentum is incredible. Try it if you do not believe him.
 
-Kill Huang Xudong! I roared it immediately.
+"Kill Huang Xudong!" I immediately roared.
 
 They all laughed, laughed until their eyes disappeared.
 
