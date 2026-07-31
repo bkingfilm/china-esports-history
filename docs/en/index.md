@@ -66,6 +66,12 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 - [Extra: A Few Words on Esports](extra-a-few-words-on-esports.md), the author's 2014 essay setting out his own definition of esports, the four reasons he thinks it stayed popular without ever breaking through, why he treats state support as a seasoning rather than a foundation, and the two breakout points he was waiting for (working translation awaiting review)
 - [Extra: Knife Skills and the Chef](extra-knife-skills-and-the-chef.md), the 2013 essay that retells a Taiwanese story about a bicycle repairman, an army officer who became a master of the knife, and a head chef who never cooked, and turns it into the author's advice to anyone working behind the scenes in esports: do not sink into a single game, mind your image, ask when you do not know, and decide whether you want to be the dishwasher, the knife hand or the chef (working translation awaiting review)
 
+## The History Behind Chinese Games
+
+A second book the author planned but never finished, widening the view from esports to the games industry as a whole. [Section index](gamehistory/index.md).
+
+- [Foreword](gamehistory/00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (working translation awaiting review)
+
 ## Help improve these translations
 
 English chapters are published as working translations and reviewed chapter by chapter. Each chapter states its current review status. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request. Corrections are welcome and credited.
