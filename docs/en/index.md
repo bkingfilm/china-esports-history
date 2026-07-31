@@ -57,6 +57,10 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 - [Chapter 42. China's Electronic Footballer of the Year: FIFA Champion Li Jun, SkylinE](42-lijun-skyline-fifa-champion.md), the Zhengzhou schoolboy who taught himself FIFA on a home PC, was beaten 10 to 0 by Shanghai's champion, found the scoring arc with a pair of compasses and won the FIFA title at the WCG 2003 China national final, then joined YolinY on a phone call he thought was a scam, lost the WCG 2004 world final to a visa refusal, and came back in 2012 to write the charter of the League of Legends club alliance and run the LPL for Banana Gaming (working translation awaiting review)
 - [Chapter 43. Esports' First Woman Club Owner: RuRu, Pan Jie](43-ruru-panjie-first-woman-club-owner.md), Pan Jie, the fashion design student who paid for the 7L Dota team in 2007 by building company websites for 2,000 yuan apiece, founded the CDEC matchmaking league that grew into VPgame, ran LGD unpaid and chased its backers for wages until the owner vanished leaving the accounts 47,000 yuan in the red, and rebuilt the club on a Taobao Games sponsorship while becoming the most abused woman in Chinese esports (working translation awaiting review)
 
+## Extras
+
+- [Extra: A Few Words on Esports](extra-a-few-words-on-esports.md), the author's 2014 essay setting out his own definition of esports, the four reasons he thinks it stayed popular without ever breaking through, why he treats state support as a seasoning rather than a foundation, and the two breakout points he was waiting for (working translation awaiting review)
+
 ## Help improve these translations
 
 English chapters are published as working translations and reviewed chapter by chapter. Each chapter states its current review status. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request. Corrections are welcome and credited.
