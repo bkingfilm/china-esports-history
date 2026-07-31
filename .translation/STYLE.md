@@ -19,6 +19,8 @@
 
 原文的比喻是中文语感，直译过去在外语里是异物。**译意思，不译喻体。**
 
+**「电脑房」不等于「网吧」，不要合并成 internet café。** 1990 年代末的「电脑房」是网吧的前身形态，原文在同一本书里两个词分用。译作 `computer room`，首次出现加一句 `an early form of the internet café`，之后统一 `computer room`。「网吧」仍照上一条一律 internet café。（07-31 第 15 章翻译班的处理，等校对确认。）
+
 **中国足球联赛级别用中国原称，不要套用英国 division 体系。** 甲 B 是 `Jia-B`，乙级是 `the Yi division`，不是 second/third division。同理，其它中国特有的分级、赛制、机构名，优先用原称加简短说明，不要硬套外国对应物。
 
 **亲属称谓要精确。** 外公外婆是 `maternal grandparents`，不是 grandparents。原文写明了父系母系的，译文必须保留。

@@ -13,6 +13,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 ## Chapters
 
 - [Chapter 13. Vanguard of the Sichuan Legion: Ma Tianyuan](13-matianyuan-sichuan-vanguard.md), the StarCraft 2v2 world champion at WCG 2001 (reviewed against the Chinese original)
+- [Chapter 15. The Esports Millionaire Who Came Out of the Slums: Meng Yang](15-mengyang-esports-millionaire.md), the Quake III player who won a one million yuan prize on the Great Wall in 2004 and then took China's first individual world title at CPL Winter (working translation awaiting review)
 - [Chapter 22. WE's League of Legends Captain: Misaya, Yu Jingxi](22-misaya-yu-jingxi-we-lol-captain.md), the captain of WE's League of Legends squad, which took its first world championship at IEM Guangzhou in 2011 (reviewed against the Chinese original)
 - [Chapter 24. When Li Xiaofeng Became Sky](24-when-li-xiaofeng-became-sky.md), the Warcraft III world champion, written in 2005 before his WCG titles (reviewed against the Chinese original)
 - [Chapter 30. China's World-Class Counter-Strike In-Game Leader: Alex, Bian Zhengwei](30-alex-bian-zhengwei-cs-commander.md), the wNv.Gaming captain who led China to the Counter-Strike world title at WEG 2005 in Beijing (reviewed against the Chinese original on July 30, 2026)
