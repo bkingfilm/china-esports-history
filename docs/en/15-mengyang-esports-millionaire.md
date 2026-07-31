@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 5, 2013: https://zhuanlan.zhihu.com/p/19630299
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on July 31, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Meng Yang was born on January 29, 1983, in the poorest and roughest shantytown in Dongcheng District, Chengdu. He was still twenty-one years away from standing on the Great Wall and winning a one million yuan prize at an esports tournament.
 
@@ -24,7 +24,7 @@ Envious, because at the time he could not manage it himself.
 
 In 1997, after the first half of his second year of junior high, the fourteen-year-old Meng Yang dropped out of school.
 
-He and his mother then ran a video hall together. It was some distance from home, and every day he cycled there through wind and rain to boil water, brew tea, and bring in customers. Admission was one yuan a person, and takings ran to about fifty yuan a day.
+He and his mother then ran a small video screening room together. It was some distance from home, and every day he cycled there through wind and rain to boil water, brew tea, and bring in customers. Admission was one yuan a person, and takings ran to about fifty yuan a day.
 
 He was still seven years away from the million yuan prize. Nobody cared who he was. His dreams? His anger? All of it was pinned down by fate, with no sign of a way out. It is hard to imagine what his life would have become without esports, without Quake.
 
@@ -38,7 +38,7 @@ That was how Meng Yang's Quake II journey began. It is worth noting that the har
 
 In the Quake II years, everyone was still just messing around, but Meng Yang's level of play drew a lot of attention from the players around him. Between 1998 and 1999 there were more than twenty clan servers running Quake II, and he challenged every one of them. Hardware and bandwidth being what they were, the strongest team he ever faced was USF, based in Hong Kong.
 
-On October 1, 1999, the 1.07 test build of Quake III was released. The owner of the computer room Meng Yang went to was a patrol officer who loved games, and he had the connections to get hold of Quake III and install it on the machines right away.
+On October 1, 1999, the 1.07 test build of Quake III was released. The owner of Meng Yang's regular computer room was a local police officer who loved games. He had the connections to obtain Quake III and install it on the machines right away.
 
 Meng Yang's era began there.
 
@@ -52,7 +52,7 @@ In March 2000 he entered a Quake III tournament in Chengdu. The entry fee was fi
 
 That tournament gave Meng Yang his confidence. He began to realise that this might actually be a path: the path of esports.
 
-In August 2000, China's first CPL qualifier, organised by the Beijing company Huacai and sponsored by ChinaRen, was held in Beijing. It is worth mentioning that the man running the event was Maverick, whose real name is Yan Ying. He ran the well-known Quake III site [Q3ACN.com](http://Q3ACN.com), people in the scene called him Old Ma, and at the time he was technical director at Huacai Software.
+In August 2000, China's first CPL qualifier, organised by the Beijing company Huacai and sponsored by ChinaRen, was held in Beijing. The event was led by Maverick, whose real name is Yan Ying. He ran the well-known Quake III site [Q3ACN.com](http://Q3ACN.com), was known in the scene as Old Ma, and served at the time as technical director of Huacai Software.
 
 Because of the way CPL qualification worked, foreign players came to compete for those slots, so the top two places went to foreigners. Meng Yang finished fourth. Third was CHJ, who would be his friend and his principal rival for many years to come.
 
@@ -82,17 +82,17 @@ He had noticed a rule: when a player makes too many inputs, mistakes follow.
 
 Some will say that is a very simple statement. It is. Most tactical ideas that actually work are simple, like Chairman Mao's "Fight when you can win, run when you cannot."
 
-Working from that idea, Meng Yang changed his style from aggressive to defensive, because the attacking player makes more inputs than the defending one and is therefore more likely to err.
+Working from that idea, Meng Yang shifted from an aggressive style to a defensive one, reasoning that an attacker makes more inputs than a defender and is therefore more likely to make a mistake.
 
 Before that WCG, studying how European players approached the game, he had found that they focused on macro control of the whole arena. They knew exactly where every resource on the map was and when it respawned, and they knew which routes to take so that an opponent would still find nothing after respawning. It is like billiards: after you pot the red, where you leave the cue ball determines how well you can run the table, and if you cannot pot, you at least leave your opponent with nothing. That is macro control of a match.
 
-Drawing on what others did and combining it with his own thinking, Meng Yang arrived at his style, which he called "lurking and tailing," following his prey like a ghostly assassin without ever letting it know where he was.
+Drawing on what others did and combining it with his own thinking, Meng Yang arrived at a style he called "playing cautiously and shadowing," following his opponent like a ghost without ever revealing his own position.
 
 The approach produced real results. He worked his way through the WCG bracket and, in his final match, missed with two shots and lost to Socrates of the United States, finishing fourth in the world in Quake III in 2002. It remains the best result any Chinese player has achieved in the game.
 
 After 2002, with Quake III past its golden age and new games arriving constantly, and above all with Counter-Strike, which asked less of a player's mechanics and forgave more mistakes, spreading everywhere, Quake III shrank into a small, high-level niche.
 
-Through tournaments large and small, Meng Yang had earned somewhere over twenty thousand yuan by 2003. That does not sound like much, but in an era with so few tournaments it was a lot of money, and his prize winnings were feeding his whole family. As Quake III faded and events dried up, however, he was pushed back to the bottom. At his poorest, he and his mother had forty yuan between them. With no other choice, Meng Yang even sold his computer and took a job at a state-owned enterprise to support the family, and because it interested him not at all, he did the work with no enthusiasm.
+Through tournaments large and small, Meng Yang had earned somewhere over twenty thousand yuan by the end of 2002. That does not sound like much, but in an era with so few tournaments it was a lot of money, and his prize winnings were feeding his whole family. As Quake III faded and events dried up, however, he was pushed back to the bottom. At his poorest, he and his mother had forty yuan between them. With no other choice, Meng Yang even sold his computer and took a job at a state-owned enterprise to support the family. The work held no interest for him.
 
 His trip to ESWC in France in 2003 was also a failure. He puts it down to his own arrogance and to not analysing each opponent objectively, and he went out in the round of sixteen. CCTV5 had sent a crew to the venue in France. One of the camera operators said to him afterwards, you are carrying too much pressure. After you lost that last match, you turned around and saw the camera pointing at you, and even though you were clearly in pain you smiled and waved. Watching that through the lens hurt me. If it hurts, you do not have to put yourself through it.
 
@@ -120,21 +120,21 @@ Nobody rated his chances beforehand, since everyone knew how little time he had 
 
 Fatal1ty, though, seemed even more nervous. He had chosen the maps well in advance, and before the tournament proper he demanded that Meng Yang not be allowed to watch his matches against other players and stay at least two hundred metres away. Meng Yang accepted.
 
-After aZhe, whose real name is Zhang Zhe and who was another of China's top Quake III players, lost to Fatal1ty six to nine, he had a read on the man's level. He said one thing to Meng Yang as he walked back from two hundred metres away: if you cannot beat him, I will twist my own head off and hand it to you.
+After aZhe, whose real name is Zhang Zhe and who was another of China's top Quake III players, lost to Fatal1ty six to nine, he had a clear sense of Fatal1ty's level. When Meng Yang returned from two hundred metres away, aZhe told him: "If you can't beat him, I'll twist my own head off and hand it to you."
 
-Meng Yang says later that the match itself was not exciting at all. He went straight to twenty-five to two.
+Meng Yang later said the match itself was not exciting at all. He raced to a score of twenty-five to two.
 
 That was because he had prepared thoroughly. He had dug out his own old Quake III demos and gone back over the mistakes he had made in them, and he had settled on a strict plan for the match: take total control of the resources in the game and go for them even at the cost of giving up a kill in front of him, so that his opponent could never pick up a weapon to fight back with. Hence the one-sided result.
 
-There were more than 140 journalists in the hall, Meng Yang says, and even he had not expected a scoreline like that in fifteen minutes, so he eased off a few frags. In his own words: "They were our international guests, after all. No need to make it that bloody. It would not have looked good."
+There were more than 140 journalists in the hall, Meng Yang said, and even he had not expected a scoreline like that after fifteen minutes, so he eased off and conceded a few frags. In his own words: "They were our international guests, after all. No need to make it that bloody. It would not have looked good."
 
-So it was a fairly comfortable match, but afterwards people said that Meng Yang had bought Fatal1ty off and that the American had thrown it. Meng Yang says he had no way to answer that and no need to. Fortunately, at the CPL Winter tournament in Dallas on December 22, 2004, he beat Nomadic, the best player in the United States, and dragon, the best in Europe, taking 9,000 US dollars and a world championship in DOOM 3 that carried real weight. It was the first individual world title in Chinese esports, and it answered the doubters through his play.
+It was a fairly comfortable match, but afterwards people claimed that Meng Yang had bought Fatal1ty off and that the American had thrown it. Meng Yang said he had no way to answer the claim and no need to. At the CPL Winter tournament in Dallas on December 22, 2004, he then beat Nomadic, the best player in the United States, and Germany's dragon, the best in Europe. He won US$9,000 and a DOOM 3 world championship that carried real weight. It was the first individual world title in Chinese esports, and his play answered the doubters.
 
 Plenty of people also said that Abit never paid the million. Meng Yang has several interesting things to say about that.
 
 First, the prize money arrived a week after the tournament. He had given the organisers his mother's account, so he phoned and asked her to check it. She came back and told him the first digit was an 8 and after that all she could see was a lot of zeros. After 20 percent personal income tax, the prize came to 800,000 yuan.
 
-Second, Abit did initially feel the million had been an unwelcome surprise, since they had never expected old F to lose. Then the coverage arrived from all over the world and they realised the million had been money extremely well spent. The Chengdu Commercial Daily, which had a large local circulation, gave the story of Meng Yang's million yuan prize a full page on A2, and no brand could buy that kind of exposure for a million.
+Second, Abit did initially feel the million had been an unwelcome surprise, since the company had never expected Fatal1ty to lose. Then coverage arrived from all over the world and it realised the million had been money extremely well spent. The Chengdu Commercial Daily, which had a large local circulation, devoted its entire A2 page to Meng Yang's million-yuan prize, and no brand could have bought that kind of exposure for one million yuan.
 
 Third, the club took 120,000 yuan of the prize. Meng Yang gave 70,000 to aZhe, who had practised with him throughout, and put 10,000 in a red envelope for Perfect, who had introduced him to 5E in the first place. He then set aside another 10,000 to improve life for his teammates at the Hunter club. That is who Meng Yang is: he takes loyalty to his brothers very seriously.
 
@@ -142,11 +142,11 @@ Fourth, with what was left, in January 2005 he spent 500,000 yuan on two flats i
 
 Fifth, after winning the Great Wall Million Challenge and the CPL Winter tournament, Meng Yang wanted to spur Chinese players on, so in interview after interview he said he trained twelve hours a day. He says now that this was a white lie: in reality he trained about five hours a day, sometimes less. The consequences were remarkable. PJ, the StarCraft player he shared a flat with, went from practising one hour a day to six, and when Sky of WE heard about it he greatly increased his own training hours too. That is why the editor-in-chief of Electronic Sports magazine later called him the spiritual leader of Chinese esports.
 
-In 2005 Meng Yang returned to Beijing and went back to the life of travelling to tournaments and winning prize money, earning something like another 300,000 yuan over time. By 2007 he had decided that a player's form falls away sharply after twenty-five, so he stopped competing at once and moved into other things. During that period min, the head of Razer, approached him and offered 1,500 US dollars a month to test new Razer products, and he accepted. He also ran a website and sold wine, following his own interests wherever they led.
+In 2005 Meng Yang returned to Beijing and went back to the life of travelling to tournaments and winning prize money, earning something like another 300,000 yuan over time. By 2007 he had decided that a player's form falls away sharply after twenty-five, so he stopped competing at once and moved into other things. During that period Min, the head of Razer, approached him and offered US$1,500 a month to test new Razer products, and he accepted. He also ran a website and sold wine, following his own interests wherever they led.
 
 On March 15, 2007, Meng Yang joined World Elite to lead its FPS side. He had been on good terms with KinG, Sky, and the other WE founders since 2004, and they had often given each other important support and help.
 
-He later found that games were still where his instincts lay, and joined a Russian company where his old Quake III comrade Jibo worked, handling game import and export. Today Meng Yang has joined Tencent, still working on bringing games in, drawing on his experience with games and his feel for them to advise the company on its decisions.
+He later found that games were still where his instincts lay, and joined a Russian company where his old Quake III comrade Jibo worked, handling game import and export. At the time of writing, Meng Yang had joined Tencent and was still working on game imports, drawing on his experience and instincts to advise the company on its decisions.
 
 If you do not give up on life, life will not give up on you.
 
