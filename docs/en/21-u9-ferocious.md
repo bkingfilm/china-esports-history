@@ -80,7 +80,7 @@ These measures brought real returns quickly, taking U9 from a personal website t
 
 Because the people playing RPG maps skewed young, the early U9 forum regularly produced incidents you did not know whether to laugh or cry at.
 
-Chenhai 3C had two separate authors, Sishen and JJJ8. At first U9 helped promote the work of both, but Sishen then built a site of his own and declared it the only official one, which was not really the done thing, so U9 switched to supporting JJJ8 alone. History took a fork in the road there. That story is harmless enough. The next one is rather more alarming.
+Chenghai 3C had two separate authors, Sishen and JJJ8. At first U9 helped promote the work of both, but Sishen then built a site of his own and declared it the only official one, which was not really the done thing, so U9 switched to supporting JJJ8 alone. History took a fork in the road there. That story is harmless enough. The next one is rather more alarming.
 
 In the Zhen San years, U9 had two large organisations, one called Huanqing and one called Numbers. Both contained map makers as well as a lot of players, and the two were utterly irreconcilable, arguing all day long. In 2005 the forum ran a Zhen San mid lane mage solo tournament, and one player made a bet with another that he would cut off his little finger if he lost. He lost, and he really did cut it off, photographed it and posted the picture on the forum. U9 decided this had gone far too far and banned bets of that kind on the forum from then on.
 
