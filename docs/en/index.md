@@ -60,6 +60,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 ## Extras
 
 - [Extra: A Few Words on Esports](extra-a-few-words-on-esports.md), the author's 2014 essay setting out his own definition of esports, the four reasons he thinks it stayed popular without ever breaking through, why he treats state support as a seasoning rather than a foundation, and the two breakout points he was waiting for (working translation awaiting review)
+- [Extra: Knife Skills and the Chef](extra-knife-skills-and-the-chef.md), the 2013 essay that retells a Taiwanese story about a bicycle repairman, an army officer who became a master of the knife, and a head chef who never cooked, and turns it into the author's advice to anyone working behind the scenes in esports: do not sink into a single game, mind your image, ask when you do not know, and decide whether you want to be the dishwasher, the knife hand or the chef (working translation awaiting review)
 
 ## Help improve these translations
 
