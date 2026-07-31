@@ -72,7 +72,7 @@ On Christmas Day 2006, Zhou Ning, only three months older than F91, left PLU and
 
 Meanwhile, Xiaose was going through a trial of his own. Jingxing's investors had withdrawn, forcing him to return to Sichuan from Guangzhou. He felt lost when Zhou Ning contacted him. The two quickly reached an agreement, and Xiaose moved to Shanghai to join NeoTV. He started as a general assistant doing whatever was needed and eventually took charge of tournaments such as the NSL.
 
-The bad blood between PLU and NeoTV also began during this period. Xiaose had a fierce temper and, being young, spoke without restraint. For years afterward, this made him a target in every kind of dispute. I described that history in detail in an earlier chapter, *PLU and NeoTV: A Tale of Grudges*, so I will not repeat it here.
+The bad blood between PLU and NeoTV also began during this period. Xiaose had a fierce temper and, being young, spoke without restraint. For years afterward, this made him a target in every kind of dispute. I described that history in detail in an earlier chapter, *NeoTV and PLU: A Tale of Grudges*, so I will not repeat it here.
 
 One episode worth mentioning came in 2008, when NeoTV decided to add a team exhibition event to the Chinese leg of WCG.
 
