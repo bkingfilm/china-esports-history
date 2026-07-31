@@ -51,6 +51,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 - [Chapter 37. King of Fighting Games: Xiaohai, Zeng Zhuojun](37-xiaohai-zeng-zhuojun-king-of-fighters.md), China's first fighting game world champion, who won The King of Fighters '98 at Tougeki 2007 (reviewed against the Chinese original)
 - [Chapter 38. Razer Founder and CEO: Min-Liang Tan, Ahead of the Field](38-min-liang-tan-razer-founder.md), the Singaporean lawyer turned gaming hardware founder who slept in Korean internet cafes in 1998 to take Razer into esports (reviewed against the Chinese original on July 31, 2026)
 - [Chapter 39. The Ageless Youth of the StarCraft Old Boys](39-starcraft-old-boys-ageless-youth.md), the four StarCraft veterans who became streamers in 2012 and carried their catchphrases into mainstream Chinese pop culture (reviewed against the Chinese original)
+- [Chapter 40. The Life Choices of the Star Caster BBC](40-bbc-zhang-hongsheng-life-choices.md), Zhang Hongsheng, beaten with a belt and an electrical cord over his marks as a child, expelled from Shanghai Jiao Tong University, then reassigned to clinical medicine at Fudan, who gave up his hospital placement and a second degree in 2005 to present full-time at GamesTV, cast Sky's first world title at WCG 2005, survived the 2008 break-up on 3,000 yuan a month and co-founded ImbaTV in 2014 (working translation awaiting review)
 
 ## Help improve these translations
 
