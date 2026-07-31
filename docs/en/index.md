@@ -12,6 +12,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 
 ## Chapters
 
+- [Author's Preface](00-authors-preface.md), why the book is about the people behind the scenes rather than the stars, the author's own definition of esports and of what counts as an esports discipline, the three reasons he thinks other competitive games never made that list, and his argument that Chinese esports was better off growing without state support (working translation awaiting review)
 - [Chapter 1. It Started with StarCraft](01-starting-with-starcraft.md), how Chinese esports began on battle.net in the late 1990s, the militarised early teams and battle.net servers, and the core-to-spread-to-tournaments-to-media chain the author draws out of that history (working translation awaiting review)
 - [Chapter 2. A Hundred Schools of Esports Contend](02-hundred-schools-of-esports.md), the explosion of ideas around 2000, told through red-apple's million-yuan investment and five-point plan, Hong Zhefu's ESWC years, KinG's shattered first sponsorship, and Hanyuliang's attempt to answer the StarCraft 1.04 cheating crisis (working translation awaiting review)
 - [Chapter 3. The Reinvention of Esports News Sites](03-esports-news-sites-reinvented.md), how CCSK's nationwide network of local correspondents and its 2002 forum overhaul overtook CSchina and set the template every Chinese esports news site followed afterwards, with the author's 2004 oral history of CCSK's founding attached (working translation awaiting review)
