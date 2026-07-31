@@ -12,6 +12,7 @@ The complete book is currently available in [Simplified Chinese](../zh/index.md)
 
 ## Chapters
 
+- [Chapter 1. It Started with StarCraft](01-starting-with-starcraft.md), how Chinese esports began on battle.net in the late 1990s, the militarised early teams and battle.net servers, and the core-to-spread-to-tournaments-to-media chain the author draws out of that history (working translation awaiting review)
 - [Chapter 13. Vanguard of the Sichuan Legion: Ma Tianyuan](13-matianyuan-sichuan-vanguard.md), the StarCraft 2v2 world champion at WCG 2001 (reviewed against the Chinese original)
 - [Chapter 15. The Esports Millionaire Who Came Out of the Slums: Meng Yang](15-mengyang-esports-millionaire.md), the Quake III player who won a one million yuan prize on the Great Wall in 2004 and then took China's first individual world title at CPL Winter (reviewed against the Chinese original on July 31, 2026)
 - [Chapter 18. From Clubs to Leagues](18-from-clubs-to-leagues.md), how Chinese esports moved from loose amateur squads to contract-based clubs, through China.V, the three poaching bubble wars and the rise of the ACE league (working translation awaiting review)
