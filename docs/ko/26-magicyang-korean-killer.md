@@ -4,7 +4,7 @@
 >
 > BBKinG이 2007년에 쓴 글이다. 저자의 즈후(知乎) 칼럼에 2013년 12월 17일 처음 게재: https://zhuanlan.zhihu.com/p/19638736
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 1일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 "여러분 안녕하세요, MagicYang입니다." 요즘 금요일과 일요일 저녁 7시 30분이면 많은 e스포츠 팬이 텔레비전이나 컴퓨터 앞에 앉아 GamesTV 채널에서 이 짧고 익숙한 목소리가 흘러나오기를 기다린다.
 
