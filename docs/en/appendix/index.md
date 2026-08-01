@@ -5,6 +5,7 @@ Short pieces of esports history the author published after finishing the book, t
 ## Translated so far
 
 - [Chinese Esports Out of Control](01-chinese-esports-out-of-control.md), the author's November 2015 argument that exploding signing fees, streaming deals and Taobao shops had left tournament prize money with no pull at all and the players ungovernable, set against KeSPA's grip on Korean player income (working translation awaiting review)
+- [KULOU.CSA's Trip to Korea, Written at WCGC 2000](02-kulou-csa-korea-trip-2000.md), a first-hand diary of the first WCGC by one of the four Chinese StarCraft players sent to South Korea, from the draw at the Shilla Hotel to the last 32, the sweep by the Korean players and ten days of watching what games already meant in Korea (working translation awaiting review)
 
 ## Help improve these translations
 
