@@ -10,6 +10,7 @@ A second book the author planned, widening the view from esports to the games in
 - [Chapter 3. WoW: Blizzard Never Actually Wanted a Divorce from The9](03-blizzard-the9-divorce.md), how The9 won the World of Warcraft licence and then lost it, from a million characters of localisation and a Mongolian voice actor for Ragnaros to the servers The9 would not upgrade and Bobby Kotick's order to split (working translation awaiting review)
 - [Chapter 4. Xuecha: What We Missed Was More Than a Few Consoles](04-xuecha-missed-consoles.md), a Wuhan boy who grew up in locked-up console rental rooms, became the first Chinese games editor sent to cover E3, and watched thirty years of banned and stalled consoles cost China more than the hardware (working translation awaiting review)
 - [Chapter 5. Tianlang's Dream of Industrialised Cosplay](05-tianlang-cosplay-industry.md), a Shanghai cosplayer who turned a hobby into a Hangzhou prop workshop, built Chevrolet's touring Bumblebee, then took the call from Tencent that put him at the centre of League of Legends in China (working translation awaiting review)
+- [Chapter 6. From a Computer Room to an International Chain: Huang Feng, Founder of Wangyu Internet Café](06-huangfeng-wangyu-internet-cafe.md), a twenty-year-old who borrowed his way into six games-only computers in suburban Shanghai, lived through confiscated machines and smashed-up premises as he expanded, and gambled against a collapsing trade to build China's leading internet café chain (working translation awaiting review)
 
 ## Help improve these translations
 
