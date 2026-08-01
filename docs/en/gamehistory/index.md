@@ -5,6 +5,7 @@ A second book the author planned, widening the view from esports to the games in
 ## Translated so far
 
 - [Foreword](00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (reviewed against the Chinese original on August 1, 2026)
+- [Chapter 1. Jichuan Mingjing: Zhang Mingjing and His Bond with Japanese Games](01-zhangmingjing-japanese-games.md), from hunting Japanese cartridges at Shanghai's Confucian Temple market to localising Sakura Wars and running Chain Chronicle (working translation awaiting review)
 
 ## Help improve these translations
 
