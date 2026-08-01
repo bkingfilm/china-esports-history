@@ -7,6 +7,7 @@ A second book the author planned, widening the view from esports to the games in
 - [Foreword](00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (reviewed against the Chinese original on August 1, 2026)
 - [Chapter 1. Jichuan Mingjing: Zhang Mingjing and His Bond with Japanese Games](01-zhangmingjing-japanese-games.md), from hunting Japanese cartridges at Shanghai's Confucian Temple market to localising Sakura Wars and running Chain Chronicle (working translation awaiting review)
 - [Chapter 2. Youku Is Not a Media Outlet: Xiucai, Games Editor-in-Chief](02-xiucai-youku-game-editor.md), from a directing degree at the Shanghai Theatre Academy to rebuilding Youku's games channel around Dota casters, and why a platform is not a media outlet (working translation awaiting review)
+- [Chapter 3. WoW: Blizzard Never Actually Wanted a Divorce from The9](03-blizzard-the9-divorce.md), how The9 won the World of Warcraft licence and then lost it, from a million characters of localisation and a Mongolian voice actor for Ragnaros to the servers The9 would not upgrade and Bobby Kotick's order to split (working translation awaiting review)
 
 ## Help improve these translations
 
