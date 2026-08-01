@@ -1,10 +1,10 @@
-# Chapter 26. The Korean Killer: MagicYang
+# Chapter 26. MagicYang, the Hero Who Beat Korea's Best
 
 > A chapter from ONE MORE WAY: The History Behind Chinese Esports, by BBKinG (Liu Yang). Translated from the Chinese original: [二十六 抗韩英雄 MagicYang](../zh/chapters/26-抗韩英雄-MagicYang.md)
 >
 > Written by BBKinG in 2007. First published in the author's Zhihu column on December 17, 2013: https://zhuanlan.zhihu.com/p/19638736
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 "Hello everyone, I'm MagicYang." These days, at half past seven every Friday and Sunday evening, a great many esports fans sit waiting in front of a television or a computer for that short, familiar voice to come through on the GamesTV channel.
 

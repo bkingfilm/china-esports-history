@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 26, 2013: https://zhuanlan.zhihu.com/p/19623766
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Mention Miss, whose real name is Han Yiying, and most esports fans still picture a small, delicate girl with fine features. She always wore the smile of the girl next door when she hosted and cast, and if she were standing beside you, you would feel an urge to protect her.
 

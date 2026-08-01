@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on January 3, 2016: https://zhuanlan.zhihu.com/p/20452813
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 "You got hit with a belt as a kid, didn't you?" BBC asked, head down over his phone. "But have you ever been hit with an electrical cord?"
 

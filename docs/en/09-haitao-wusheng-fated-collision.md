@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 25, 2013: https://zhuanlan.zhihu.com/p/19622500
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 On June 18, 1986, Zhou Lingxiang, the well-known Dota caster who goes by Haitao, was born in Jiujiang, Jiangxi. Nine months later, on March 23, 1987, Wu Sheng, the Dota world champion who goes by 2009, was born in Yuncheng, Shanxi. It is as if fate had decided to make the era a livelier place.
 

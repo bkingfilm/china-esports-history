@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 20, 2013: https://zhuanlan.zhihu.com/p/19619190
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 StarsWar, in full the StarsWar Esports Gala, was originally called the StarsWar International Esports Star Invitational.
 

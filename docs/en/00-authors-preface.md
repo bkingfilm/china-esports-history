@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 10, 2013: https://zhuanlan.zhihu.com/p/19609949
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 The Guanzi says: it takes ten years to grow a tree and a hundred years to cultivate a person. There is a great deal of truth in that. The line is about training people, but widen the lens a little and it is also about how a culture forms. Chinese esports has been going for more than ten years now and has reached a certain scale, but turning that into something with cultural depth is a job we have only just begun. This history of what happened behind the scenes records the first twelve years of Chinese esports, from 1998 to 2010, as a reference for research in the future.
 

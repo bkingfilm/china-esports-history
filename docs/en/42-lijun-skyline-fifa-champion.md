@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on July 14, 2016: https://zhuanlan.zhihu.com/p/21482568
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Li Jun's public title these days is vice president of Banana Gaming, the company owned by Wang Sicong. He has run the organisation and operation of the LPL and other competitions for five years. He was also the first head of L.ACE, the League of Legends professional club alliance, and personally drafted its charter and regulations, laying the foundations for professional League of Legends competition in China.
 

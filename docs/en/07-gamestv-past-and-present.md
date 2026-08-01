@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 22, 2013: https://zhuanlan.zhihu.com/p/19620732
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 In 2006, once the third StarsWar was over, I formally transferred to the GamesTV channel at Shanghai Media Group Interactive, which at that point still carried the joint name GamesTV (an independently run company, GamesTV Ltd, has since been set up). The first project I touched there was the preparation of the first G League.
 

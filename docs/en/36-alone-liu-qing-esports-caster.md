@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on February 20, 2015: https://zhuanlan.zhihu.com/p/19919216
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Someone once asked Alone, who also goes by Erlong and was one of the first esports casters in China, how he felt about new casters earning more than he does by drinking water on stream and wearing thongs.
 

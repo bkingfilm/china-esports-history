@@ -4,7 +4,7 @@
 >
 > Written by BBKinG in 2004. First published in the author's Zhihu column on December 16, 2013: https://zhuanlan.zhihu.com/p/19638219
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Su Hao, who competes under the tag suhO, is known among Chinese esports fans as the man with the dancing left hand, because of the speed and precision with which his left hand works the keyboard.
 

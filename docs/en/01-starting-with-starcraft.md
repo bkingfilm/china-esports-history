@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 12, 2013: https://zhuanlan.zhihu.com/p/19611097
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Around 2004, on the private forum run by Chunyin, the former games editor of the newspaper CBI Computer Business Information, I got to know [AOQ]cat, a well-known writer in the StarCraft community. That forum, called Wushui de Yecha, or The Napping Yaksha, had gathered a great many of the people who worked behind the scenes in games. Senior figures such as Xiaosanshao and Kamantou, also known as commando, the author of the StarCraft novel *Yongwang Zhiqian*, or Press Forward, were all there.
 

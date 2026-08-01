@@ -4,7 +4,7 @@
 >
 > Written by BBKinG in 2008. First published in the author's Zhihu column on December 23, 2013: https://zhuanlan.zhihu.com/p/19642242
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 The name Zhou Hao means nothing to most people. Even his other name, Zax, may be familiar without bringing any clear picture to mind. That is because, although he founded [Replays.net](http://replays.net), the internationally known Chinese esports community, organised the StarsWar International Esports Star Invitational and is the owner behind WE, one of the world's leading esports clubs, the man born in 1981 has never carried himself with any swagger or arrogance. He has always stayed quietly behind the scenes of Chinese esports.
 

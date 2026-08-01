@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 19, 2013: https://zhuanlan.zhihu.com/p/19639981
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 TED, whom a lot of people like to call Little Fatty, was in Shijiazhuang with the rest of us on June 24, 2010. That evening, after we had finished GIGABYTE's GIGAJOY campus star tour, we went back to the hotel and I said we should have a chat. Little Fatty said sure, once he had taken a shower. Half an hour later, when I reached his room, he was lying on the bed wrapped in a quilt, propping up his head and watching the World Cup, at first glance rather like a round little hedgehog. When he saw me come in he crawled out of the covers, reached up to switch off the television and said, let us talk.
 

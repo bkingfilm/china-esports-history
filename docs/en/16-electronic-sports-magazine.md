@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 6, 2013: https://zhuanlan.zhihu.com/p/19631175
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Plenty of people know Electronic Sports magazine, and many of them probably read it while they were at school. Yet as the only central-level esports magazine in China approved by the General Administration of Press and Publication, its turbulent behind-the-scenes story over the past decade has stayed hidden.
 

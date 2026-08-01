@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 9, 2013: https://zhuanlan.zhihu.com/p/19633467
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 DC, whose Chinese name is Dong Can, was captain and coach of EHOME, the famous professional Dota team, in its most glorious period, and is now a well-known presenter at GTV. He was born on June 21, 1985, in Xiangtan, Hunan. The name DC comes from his full ID, DCLXJDC, which combines his own name with those of two close friends. Why that particular combination? He absolutely refuses to say.
 

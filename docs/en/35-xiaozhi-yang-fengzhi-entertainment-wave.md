@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on October 17, 2014: https://zhuanlan.zhihu.com/p/19869029
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Mention the caster Xiaozhi today and some people wonder what he looks like, since he has never shown his face in public, and others about the tens of millions of yuan he has made from esports casting. Before I interviewed him, I was curious about something else. How had that down-to-earth "Xiaozhi humour" of his come about? I even wondered for a while whether he had started out as a street entertainer at Tianqiao in Beijing.
 

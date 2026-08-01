@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 27, 2013: https://zhuanlan.zhihu.com/p/19624769
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 On stage and behind it, the esports scene is divided into many different jobs: player, coach, team leader, manager, owner, caster, host, journalist, editor, media buyer, planner, event organiser and so on. Most people only ever experience one of them, and some experience several. Xiaocang is one of the very few who have been through almost all of them. Along the way she kept trying and kept learning, surpassing herself one step at a time until she reached the dream she had set for herself.
 

@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 6, 2013: https://zhuanlan.zhihu.com/p/19631937
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 People who played Warcraft III solo ladder might never have touched Dota, and Dota players might never have touched solo. But whichever mode you chose, if you played Warcraft III at any point in those ten years, the EVA Jianxin patch pack was right there with you.
 

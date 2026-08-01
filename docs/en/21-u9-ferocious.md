@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on December 11, 2013: https://zhuanlan.zhihu.com/p/19635193
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 This is a ferocious story. To understand how [uuu9.com](http://uuu9.com) grew, you first have to understand its boss, Liu Liang.
 

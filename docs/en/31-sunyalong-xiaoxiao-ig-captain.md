@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on June 17, 2014: https://zhuanlan.zhihu.com/p/19780186
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Many people probably know the name Xiaoxiao because he was the former captain of iG's League of Legends squad. He led iG to WCG, TGA, SWL and several other domestic titles, and he represented China abroad many times. What many people may not know is that Xiaoxiao was also a Korean killer. Jianwu Hongyanxiao, a name that carried real weight in the Dungeon Fighter Online scene, is the full form of that ID, and again and again he fought his way alone into the grand final while the rest of the Chinese contingent was being wiped out. In Dungeon Fighter Online, or DNF, a fighting game developed by Koreans and dominated by the Japanese, he won China a place at the table.
 

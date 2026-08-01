@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on July 15, 2014: https://zhuanlan.zhihu.com/p/19798412
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Plenty of people will read the title of this chapter and ask a question. Isn't National Geographic of Azeroth, NGA, a World of Warcraft site? What does the founder of an online games website have to do with esports?
 

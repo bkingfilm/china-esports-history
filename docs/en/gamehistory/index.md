@@ -4,7 +4,7 @@ A second book the author planned, widening the view from esports to the games in
 
 ## Translated so far
 
-- [Foreword](00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (working translation awaiting review)
+- [Foreword](00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (reviewed against the Chinese original on August 1, 2026)
 
 ## Help improve these translations
 

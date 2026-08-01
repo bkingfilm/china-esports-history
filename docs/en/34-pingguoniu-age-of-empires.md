@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on August 9, 2014: https://zhuanlan.zhihu.com/p/19814374
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Pingguoniu says the esports road he took was well off the mainstream, and a lonely one.
 

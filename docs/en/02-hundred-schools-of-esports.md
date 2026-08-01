@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 16, 2013: https://zhuanlan.zhihu.com/p/19614572
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 The years around 2000 were an extraordinarily lively period in the history behind Chinese esports. It looked very much like the Spring and Autumn and Warring States era, when a hundred schools of thought contended with one another. A great explosion of ideas about esports had begun.
 

@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on March 13, 2014: https://zhuanlan.zhihu.com/p/19700908
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 This history has passed 200,000 characters by now. I did not write it as a chronicle. I wrote it mainly as a series of lives, because that form lets me go deeper into events, although it also makes for tiring reading. So I want to gather up some of my own thoughts about esports here, roughly sorted, for whatever use they are to you.
 

@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on September 9, 2014: https://zhuanlan.zhihu.com/p/19845247
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 In 2013, home for the Lunar New Year and unable to sit still, I started writing THE HISTORY BEHIND CHINESE ESPORTS. At first I only meant to put something on the table that others might build on, to set down a record of our youth, a shared memory for people in esports.
 

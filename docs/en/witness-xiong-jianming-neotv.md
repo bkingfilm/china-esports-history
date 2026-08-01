@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 23, 2013: https://zhuanlan.zhihu.com/p/19621437
 >
-> This is a working translation awaiting review. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 1, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 A note from the editor, BBKinG. After I published Chapter 8 of The History Behind Chinese Esports, NeoTV and PLU: A Tale of Grudges, the piece drew attention from every direction, and the people who had lived through those events in particular came forward one after another with their own views. I have collected and organised them here. I need to state clearly that everything in this piece has been confirmed by the person who supplied the information. I exist only as someone putting a history in order, and since everyone's angle and experience differ, there are bound to be errors and omissions. At the same time I have no interest in praising or condemning anybody. That is not why I write this series, and I hope readers will understand.
 
