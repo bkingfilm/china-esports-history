@@ -72,6 +72,12 @@ A second book the author planned but never finished, widening the view from espo
 
 - [Foreword](gamehistory/00-foreword.md), why the author widened his behind the scenes history from esports to the whole games industry, after a year and a half and more than 50 interviews (reviewed against the Chinese original on August 1, 2026)
 
+## Extra Pieces and Source Material
+
+Short pieces of esports history the author published after finishing the book, together with the record of its launch event. [Section index](appendix/index.md).
+
+- [Chinese Esports Out of Control](appendix/01-chinese-esports-out-of-control.md), the author's November 2015 argument that exploding signing fees, streaming deals and Taobao shops had left tournament prize money with no pull at all and the players ungovernable, set against KeSPA's grip on Korean player income (working translation awaiting review)
+
 ## Help improve these translations
 
 English chapters are published as working translations and reviewed chapter by chapter. Each chapter states its current review status. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request. Corrections are welcome and credited.
