@@ -4,7 +4,7 @@
 >
 > 저자의 즈후(知乎) 칼럼에 2014년 9월 19일 처음 게재: https://zhuanlan.zhihu.com/p/19849790
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 3일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 중국 게임의 이면사를 이야기하자면 《월드 오브 워크래프트》의 중국 서비스 사례는 고전 중의 고전이라 할 만하다.
 

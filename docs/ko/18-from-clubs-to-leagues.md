@@ -4,7 +4,7 @@
 >
 > 저자의 즈후(知乎) 칼럼에 2013년 12월 7일 처음 게재: https://zhuanlan.zhihu.com/p/19632128
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 3일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 Zax와 KinG은 같은 질문을 자주 받는다. WE 클럽은 선수를 어떻게 뽑는가?
 

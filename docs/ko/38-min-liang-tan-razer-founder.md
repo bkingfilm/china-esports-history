@@ -4,7 +4,7 @@
 >
 > 저자의 즈후(知乎) 칼럼에 2015년 11월 20일 처음 게재: https://zhuanlan.zhihu.com/p/20355163
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 3일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 1998년 Razer의 첫 마우스 Boomslang이 나온 뒤로 지금까지, Razer의 제품은 게임의 거의 모든 영역에 닿았다. 디자인은 언제나 남보다 앞서 있었고, 수많은 주변기기 업체가 앞다퉈 따라 하는 대상이었으며, 많은 e스포츠 선수가 가장 아끼는 물건이기도 했다.
 
