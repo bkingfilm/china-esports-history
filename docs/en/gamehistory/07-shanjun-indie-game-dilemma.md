@@ -1,10 +1,10 @@
-# Chapter 7. Shan Jun's Puzzle: A Chinese Indie Game Developer
+# Chapter 7. Shan Jun's Dilemma: A Chinese Indie Game Developer
 
 > A chapter from THE HISTORY BEHIND CHINESE GAMES, the author's unfinished second book, by BBKinG (Liu Yang). Translated from the Chinese original: [七 单隽的困惑 中国独立游戏人](../../zh/gamehistory/07-单隽的困惑-中国独立游戏人.md)
 >
 > First published in the author's Zhihu column on October 15, 2015: https://zhuanlan.zhihu.com/p/20262129
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Shan Jun (单隽) has had an unusual career. At fifteen he was writing real-time strategy games on his own. At nineteen he won the National University Student Game Competition (全国大学生游戏比赛) run by the University of Science and Technology of China. At twenty-three he became the youngest game project manager at Shanda. At twenty-seven he started his own company and released Kung Fu Strike: The Warrior's Rise (风卷残云), a 3D console fighting game, on Microsoft's Xbox Live Arcade, where it won a number of game awards in China and abroad.
 

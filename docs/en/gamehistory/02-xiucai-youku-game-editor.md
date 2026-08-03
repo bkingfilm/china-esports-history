@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on September 13, 2014: https://zhuanlan.zhihu.com/p/19847893
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Xiucai, whose real name is Zhou Ye (周晔), is the current games editor-in-chief at Youku. He was born in Wuxi, Jiangsu, on July 14, 1981. He loved literature and history from an early age, there were a great many books at home, and he read widely. He was particularly good at reading classical Chinese and devoted to Romance of the Three Kingdoms, which is where the nickname Xiucai (秀才), the title held by a scholar who had passed the lowest level of the old imperial examinations, comes from.
 

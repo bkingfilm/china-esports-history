@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on September 30, 2014: https://zhuanlan.zhihu.com/p/19856097
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 On September 29, 2014, in complete contrast to the strong feelings running through the games industry, the official launch of the Chinese version of the Xbox One seemed to stir very little among most players.
 

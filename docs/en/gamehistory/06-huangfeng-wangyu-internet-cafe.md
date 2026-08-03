@@ -1,10 +1,10 @@
-# Chapter 6. From a Computer Room to an International Chain: Huang Feng, Founder of Wangyu Internet Café
+# Chapter 6. Huang Feng, Founder of Wangyu Internet Café
 
 > A chapter from THE HISTORY BEHIND CHINESE GAMES, the author's unfinished second book, by BBKinG (Liu Yang). Translated from the Chinese original: [六 黄锋 网鱼网咖创始人](../../zh/gamehistory/06-黄锋-网鱼网咖创始人.md)
 >
 > First published in the author's Zhihu column on September 28, 2015: https://zhuanlan.zhihu.com/p/20224791
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 In October 1998, Huang Feng (黄锋) had just turned twenty. With 30,000 yuan from his family and another 6,000 he had borrowed himself, he bought six computers and opened a computer room, an early form of the internet café, out in the suburban district of Songjiang in Shanghai. The machines could be used to play games and nothing else. They were not even connected to the internet.
 

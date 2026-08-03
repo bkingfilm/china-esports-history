@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on September 11, 2014: https://zhuanlan.zhihu.com/p/19845155
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Zhang Mingjing, known to his friends as Jichuan, was born in Shanghai in 1977. His father was an executive at a state-owned enterprise and his mother a laboratory technician at a factory. He is now product director at Meiyu (美娱), a company under Shanda Games, where he runs Chain Chronicle, a Japanese mobile game with revenue in the tens of millions of yuan that has reached the top ten of the App Store's grossing chart at least twice.
 

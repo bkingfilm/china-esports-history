@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on September 19, 2014: https://zhuanlan.zhihu.com/p/19849790
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 When it comes to the history behind Chinese games, the way World of Warcraft was run in China is the classic of classics.
 
@@ -80,7 +80,7 @@ The level cap was 45, and player enthusiasm went beyond anything anyone had imag
 
 The World of Warcraft open beta queues had a lasting effect on the games that came afterwards, and turned into a kind of culture. People in the industry say that some later games went to the trouble of manufacturing the appearance of a queue even when there was no need for one.
 
-## Blizzard the dominant partner
+## Blizzard, the dominant partner
 
 Blizzard made a great many demands of The9 on how World of Warcraft was run, and some of them were steep. On the choice of servers, for example, Blizzard's requirements led The9 to buy the most advanced servers Hewlett-Packard then had, and the computing power of the whole server cluster is said to have far exceeded that of the Galaxy supercomputer.
 

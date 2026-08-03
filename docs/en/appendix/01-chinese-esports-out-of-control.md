@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on November 8, 2015: https://zhuanlan.zhihu.com/p/20326974
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Because I was interviewing the StarCraft Old Boys, I spent two days at a tournament venue, where several team leaders and managers I know pulled me aside to complain. They have all been in esports a long time, and they all feel something has gone wrong with it now. They are anxious, and they have no idea what to do.
 

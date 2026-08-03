@@ -76,7 +76,7 @@ A second book the author planned but never finished, widening the view from espo
 
 Short pieces of esports history the author published after finishing the book, together with the record of its launch event. [Section index](appendix/index.md).
 
-- [Chinese Esports Out of Control](appendix/01-chinese-esports-out-of-control.md), the author's November 2015 argument that exploding signing fees, streaming deals and Taobao shops had left tournament prize money with no pull at all and the players ungovernable, set against KeSPA's grip on Korean player income (working translation awaiting review)
+- [Chinese Esports Out of Control](appendix/01-chinese-esports-out-of-control.md), the author's November 2015 argument that exploding signing fees, streaming deals and Taobao shops had left tournament prize money with no pull at all and the players ungovernable, set against KeSPA's grip on Korean player income (reviewed against the Chinese original on August 3, 2026)
 
 ## Help improve these translations
 

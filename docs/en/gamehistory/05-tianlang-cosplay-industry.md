@@ -4,7 +4,7 @@
 >
 > First published in the author's Zhihu column on October 25, 2014: https://zhuanlan.zhihu.com/p/19863755
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
 Jiang Hui (蒋慧) was born in Hongkou, Shanghai, on March 26, 1986. He is a textbook Aries: driven, competitive, blazing like the sun. Most people are probably more familiar with his other name, Tianlang (天狼), a name everyone in Chinese cosplay circles knows.
 
@@ -82,7 +82,7 @@ Two roads lay in front of him. One was to be a cosplayer, build a name and then 
 
 Tianlang says that in cosplay circles those who do make a name can earn something like 300,000 to 500,000 yuan a year from events and from selling photographs and other merchandise, but it is not very stable. He felt the moment was not yet right for the first road, that he had to survive first and talk about growth afterwards. And so he settled firmly on running a company and taking the second road.
 
-## However badly the client treats me, I still treat the client like a first love
+## Demanding clients, unwavering commitment
 
 In 2010, to keep the team alive, Tianlang took orders from plenty of other companies besides Tencent: making cosplay props for Fan Bingbing (范冰冰) for King of Kings 3 (万王之王3), for instance, and handling Changyou's Chinajoy orders.
 

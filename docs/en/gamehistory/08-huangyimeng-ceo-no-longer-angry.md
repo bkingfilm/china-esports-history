@@ -1,12 +1,12 @@
-# Chapter 8. However, He Is No Longer an Angry Young Man: CEO Huang Yimeng
+# Chapter 8. CEO Huang Yimeng, No Longer an Angry Young Activist
 
 > A chapter from THE HISTORY BEHIND CHINESE GAMES, the author's unfinished second book, by BBKinG (Liu Yang). Translated from the Chinese original: [八 然而已经不是愤青的CEO 黄一孟](../../zh/gamehistory/08-然而已经不是愤青的CEO-黄一孟.md)
 >
 > First published in the author's Zhihu column on August 8, 2016: https://zhuanlan.zhihu.com/p/21668259
 >
-> This is a working translation awaiting review against the Chinese original. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
+> This translation was reviewed against the Chinese original on August 3, 2026. If you spot a mistranslation, a wrong name, or a factual error, please [open an issue](https://github.com/bkingfilm/china-esports-history/issues/new) or send a pull request.
 
-When the interview was over, I asked Huang Yimeng: "Dash, all this angry young man business, can I really write it up?"
+When the interview was over, I asked Huang Yimeng: "Dash, can I really write about your days as a fenqing, an angry young activist?"
 
 Huang Yimeng (黄一孟) was born on March 18, 1982, in Changning District, Shanghai.
 
@@ -14,7 +14,7 @@ At that point he was still twenty years away from founding VeryCD and bringing e
 
 And twenty-one years away from being expelled from university.
 
-Huang Yimeng, angry young man
+Huang Yimeng, the angry young activist
 
 Huang's mother was a doctor in a hospital laboratory department. His father taught physical education at a university and was later promoted to head of the department. The family shaped him in two lasting ways.
 
@@ -82,7 +82,7 @@ Among them were several FTP servers inside Shanghai University itself, and Huang
 
 The university moved quickly. It suppressed the news, handled nothing openly and wanted the whole thing wiped away fast. The FTP servers on campus deleted the file under pressure from every direction. Huang Yimeng flatly refused to.
 
-Huang says he was simply an angry young man at the time. The footage had nothing to do with him and he had not uploaded it, but he objected strongly to the way the university concealed what had happened and used administrative force to bury it. That kind of thing, he thought, should not be happening on the new internet.
+Huang says he was simply a fenqing, an angry young activist, at the time. The footage had nothing to do with him and he had not uploaded it, but he objected strongly to the way the university concealed what had happened and used administrative force to bury it. That kind of thing, he thought, should not be happening on the new internet.
 
 Too young, too naive. Huang Yimeng paid for his youth.
 
@@ -260,6 +260,6 @@ XD, which overturned the games industry with joint operation, now means to end j
 
 Huang says the hundred days of building TapTap have brought a flood of praise. Players and game companies both like the model, and it has given him back the sense of achievement he had while building VeryCD. He is only thinking more clearly now and looking further ahead. TapTap is to become Steam on the phone, with far more weight put on building the community.
 
-When the interview was over, I asked Huang Yimeng: "Dash, all this angry young man business, can I really write it up?"
+When the interview was over, I asked Huang Yimeng: "Dash, can I really write about your days as a fenqing, an angry young activist?"
 
-Huang Yimeng said: "However, I am not an angry young man any more."
+Huang Yimeng said: "But I am not a fenqing any more."
