@@ -1,10 +1,10 @@
-# e스포츠 규칙을 더듬던 시절의 희생양, 한국 KTA
+# e스포츠 대회 규칙을 모색하던 시절의 희생양, 한국 KTA
 
 > 저자 BBKinG(류양, 刘洋)이 《ONE MORE WAY: 중국 e스포츠의 이면사》를 낸 뒤 발표한 e스포츠 사료 단편 가운데 한 편. 중국어 원문에서 번역: [电竞比赛规则探索的牺牲品 韩国KTA战队](../../zh/appendix/06-电竞比赛规则探索的牺牲品-韩国KTA战队.md)
 >
 > 저자의 즈후(知乎) 칼럼에 2018년 4월 16일 처음 게재: https://zhuanlan.zhihu.com/p/35753492
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 4일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 글. BK 단편 다큐멘터리(BK短纪录片)
 

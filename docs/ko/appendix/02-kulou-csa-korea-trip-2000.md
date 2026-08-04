@@ -1,10 +1,10 @@
-# KULOU.CSA의 한국 여행, 2000년 WCGC에서 쓰다
+# 2000년 WCGC에서 쓴 KULOU.CSA의 한국 여행기
 
 > 《ONE MORE WAY: 중국 e스포츠의 이면사》에 함께 실린 사료 단편. 글쓴이 kulou.csa는 첫 WCGC에 나간 중국 스타크래프트 대표 선수 네 명 가운데 한 사람이다. 중국어 원문에서 번역: [KULOU.CSA韩国之旅 写于2000年WCGC](../../zh/appendix/02-KULOU.CSA韩国之旅-写于2000年WCGC.md)
 >
 > 저자의 즈후(知乎) 칼럼에 2016년 11월 18일 처음 게재: https://zhuanlan.zhihu.com/p/23774762
 >
-> 이 번역은 검토를 기다리는 작업본입니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
+> 이 번역은 2026년 8월 4일 중국어 원문과 대조해 검토했습니다. 오역, 잘못된 표기, 사실 오류를 발견하시면 [이슈를 열어](https://github.com/bkingfilm/china-esports-history/issues/new) 주시거나 풀 리퀘스트를 보내 주세요.
 
 글. kulou.csa. 2000년 WCGC에 참가하고 돌아온 뒤에 씀.
 
