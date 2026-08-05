@@ -56,6 +56,18 @@ extra:
     - name: English
       link: en/
       lang: en
+    - name: 한국어
+      link: ko/
+      lang: ko
+    - name: 日本語
+      link: ja/
+      lang: ja
+    - name: Español
+      link: es/
+      lang: es
+    - name: Русский
+      link: ru/
+      lang: ru
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/bkingfilm/china-esports-history
@@ -142,6 +154,158 @@ nav:
           - 2003 年瑞典 SK 战队访华: zh/appendix/08-2003年瑞典SK战队访华.md
           - 新书发布会: zh/appendix/09-新书发布会.md
   - English:
-      - Home: en/index.md
-      - One More Way · TEDxSuzhou 2015: en/one-more-way-tedx-2015.md
+      - "Home": en/index.md
+      - "One More Way: How Chinese Esports Survived": en/one-more-way-tedx-2015.md
+      - "Author's Preface": en/00-authors-preface.md
+      - "Chapter 1. It Started with StarCraft": en/01-starting-with-starcraft.md
+      - "Chapter 2. A Hundred Schools of Esports Contend": en/02-hundred-schools-of-esports.md
+      - "Chapter 3. The Reinvention of Esports News Sites": en/03-esports-news-sites-reinvented.md
+      - "Chapter 4. The Rise and Fall of China's Esports Gaming Platforms": en/04-rise-and-fall-of-gaming-platforms.md
+      - "Chapter 5. The Story of CEG": en/05-story-of-ceg.md
+      - "Chapter 6. StarsWar and the Search for Entertainment in Esports Events": en/06-starswar-esports-entertainment.md
+      - "Chapter 7. GamesTV, Past Lives and Present": en/07-gamestv-past-and-present.md
+      - "Chapter 8. NeoTV and PLU: A Tale of Grudges": en/08-neotv-plu-grudges.md
+      - "Chapter 9. Haitao and 2009: A Collision of Destinies": en/09-haitao-wusheng-fated-collision.md
+      - "Chapter 10. A Woman in Esports: Miss": en/10-miss-han-yiying-woman-in-esports.md
+      - "Chapter 11. A Woman in Esports: Xiaocang": en/11-xiaocang-zhang-xiangling-woman-in-esports.md
+      - "Chapter 12. The Card Game of a Life: 820, Zou Yitian": en/12-zouyitian-820-card-game-of-life.md
+      - "Chapter 13. Vanguard of the Sichuan Legion: Ma Tianyuan": en/13-matianyuan-sichuan-vanguard.md
+      - "Chapter 14. Tencent, What Is It Trying to Do?": en/14-tencent-what-does-it-want.md
+      - "Chapter 15. The Esports Millionaire Who Came Out of the Slums: Meng Yang": en/15-mengyang-esports-millionaire.md
+      - "Chapter 16. A Print Magazine With Worries: Electronic Sports": en/16-electronic-sports-magazine.md
+      - "Chapter 17. Ten Years in the Making: The EVA Jianxin Patch Pack": en/17-eva-jianxin-warcraft-patch-pack.md
+      - "Chapter 18. From Clubs to Leagues": en/18-from-clubs-to-leagues.md
+      - "Chapter 19. Long Hair Flowing: DC, Dong Can": en/19-dongcan-dc-long-hair-flowing.md
+      - "Chapter 20. Duowan's Killer Move": en/20-duowan-killer-move.md
+      - "Chapter 21. U9, Ferocious": en/21-u9-ferocious.md
+      - "Chapter 22. WE's League of Legends Captain: Misaya, Yu Jingxi": en/22-misaya-yu-jingxi-we-lol-captain.md
+      - "Chapter 23. I-Rocks' Da Han: The Legend of a Life Staked on Going All In": en/23-hanbohan-i-rocks-all-in.md
+      - "Chapter 24. When Li Xiaofeng Became Sky": en/24-when-li-xiaofeng-became-sky.md
+      - "Chapter 25. The Man With the Dancing Left Hand: suhO": en/25-suhao-dancing-left-hand.md
+      - "Chapter 26. MagicYang, the Hero Who Beat Korea's Best": en/26-magicyang-korean-killer.md
+      - "Chapter 27. His Parents Took Him to Tournaments: TED, the Ghost King of the Mountain City": en/27-zengzhuo-ted-ghost-king.md
+      - "Chapter 28. XUGA, the Xi'an University Esports Alliance": en/28-xuga-xian-university-alliance.md
+      - "Chapter 29. The Founder of Replays.net, StarsWar and WE: Zax, Zhou Hao": en/29-zhouhao-zax-replays-starswar-we-founder.md
+      - "Chapter 30. China's World-Class Counter-Strike In-Game Leader: Alex, Bian Zhengwei": en/30-alex-bian-zhengwei-cs-commander.md
+      - "Chapter 31. From Jianwu Hongyanxiao to IG.xiaoxiao: Sun Yalong": en/31-sunyalong-xiaoxiao-ig-captain.md
+      - "Chapter 32. The Founder of National Geographic of Azeroth: Ediart, Tian Jian": en/32-tianjian-ediart-nga-founder.md
+      - "Chapter 33. TI4 World Champion and Newbee Captain: Zhang Ning": en/33-zhang-ning-xiao8-newbee-ti4-champion.md
+      - "Chapter 34. Pingguoniu's Age of Empires": en/34-pingguoniu-age-of-empires.md
+      - "Chapter 35. The Entertainment Wave in Esports: Xiaozhi, the Caster": en/35-xiaozhi-yang-fengzhi-entertainment-wave.md
+      - "Chapter 36. Alone, One of the First Casters in Chinese Esports": en/36-alone-liu-qing-esports-caster.md
+      - "Chapter 37. King of Fighting Games: Xiaohai, Zeng Zhuojun": en/37-xiaohai-zeng-zhuojun-king-of-fighters.md
+      - "Chapter 38. Razer Founder and CEO: Min-Liang Tan, Ahead of the Field": en/38-min-liang-tan-razer-founder.md
+      - "Chapter 39. The Ageless Youth of the StarCraft Old Boys": en/39-starcraft-old-boys-ageless-youth.md
+      - "Chapter 40. The Life Choices of the Star Caster BBC": en/40-bbc-zhang-hongsheng-life-choices.md
+      - "Chapter 41. Starting a New Line in Esports: Liu Yifeng": en/41-liuyifeng-starting-a-new-line.md
+      - "Chapter 42. China's Electronic Footballer of the Year: FIFA Champion Li Jun, SkylinE": en/42-lijun-skyline-fifa-champion.md
+      - "Chapter 43. Esports' First Woman Club Owner: RuRu, Pan Jie": en/43-ruru-panjie-first-woman-club-owner.md
+      - "Extra: A Few Words on Esports": en/extra-a-few-words-on-esports.md
+      - "Extra: Knife Skills and the Chef": en/extra-knife-skills-and-the-chef.md
+      - "Witness Account: Xiong Jianming (Neo), Former General Manager of NeoTV, in His Own Words": en/witness-xiong-jianming-neotv.md
+      - Behind Chinese Games:
+          - "The History Behind Chinese Games": en/gamehistory/index.md
+          - "The History Behind Chinese Games: Foreword": en/gamehistory/00-foreword.md
+          - "Chapter 1. Jichuan Mingjing: Zhang Mingjing and His Bond with Japanese Games": en/gamehistory/01-zhangmingjing-japanese-games.md
+          - "Chapter 2. Youku Is Not a Media Outlet: Xiucai, Games Editor-in-Chief": en/gamehistory/02-xiucai-youku-game-editor.md
+          - "Chapter 3. WoW: Blizzard Never Actually Wanted a Divorce from The9": en/gamehistory/03-blizzard-the9-divorce.md
+          - "Chapter 4. Xuecha: What We Missed Was More Than a Few Consoles": en/gamehistory/04-xuecha-missed-consoles.md
+          - "Chapter 5. Tianlang's Dream of Industrialised Cosplay": en/gamehistory/05-tianlang-cosplay-industry.md
+          - "Chapter 6. Huang Feng, Founder of Wangyu Internet Café": en/gamehistory/06-huangfeng-wangyu-internet-cafe.md
+          - "Chapter 7. Shan Jun's Dilemma: A Chinese Indie Game Developer": en/gamehistory/07-shanjun-indie-game-dilemma.md
+          - "Chapter 8. CEO Huang Yimeng, No Longer an Angry Young Activist": en/gamehistory/08-huangyimeng-ceo-no-longer-angry.md
+          - "Extra: A Baseball Game in Boston": en/gamehistory/extra-boston-baseball.md
+      - Scattered Chapters:
+          - "Extra Pieces and Source Material": en/appendix/index.md
+          - "Chinese Esports Out of Control": en/appendix/01-chinese-esports-out-of-control.md
+          - "KULOU.CSA's Trip to Korea, Written at WCGC 2000": en/appendix/02-kulou-csa-korea-trip-2000.md
+          - "Why Are Most Esports Organisations and Tournaments in Shanghai?": en/appendix/03-why-shanghai.md
+          - "Two Years On, Another Look at Mobile Esports": en/appendix/04-mobile-esports-two-years-on.md
+          - "China's Fighting Game Scene: Frozen Youth": en/appendix/05-chinas-fighting-game-scene-frozen-youth.md
+          - "A Casualty of Esports' Search for the Right Rules: Korea's KTA": en/appendix/06-kta-korean-team-rules-casualty.md
+          - "The Dawn Before the Darkness: The Unaired WCG 2003 Documentary": en/appendix/07-dawn-before-darkness-wcg2003-documentary.md
+          - "The 2003 Visit of Sweden's SK Changed How the World Saw Chinese Esports": en/appendix/08-sk-gaming-china-visit-2003.md
+          - "The Launch Event for ONE MORE WAY: The History Behind Chinese Esports": en/appendix/09-book-launch.md
+  - 한국어:
+      - "홈": ko/index.md
+      - "서장. 길이 더 많아지도록, TEDx에서 이야기한 중국 e스포츠": ko/one-more-way-tedx-2015.md
+      - "저자 서문": ko/00-authors-preface.md
+      - "제1장. 스타크래프트 이야기부터 시작한다": ko/01-starting-with-starcraft.md
+      - "제2장. e스포츠의 백가쟁명": ko/02-hundred-schools-of-esports.md
+      - "제3장. e스포츠 뉴스 사이트의 혁신": ko/03-esports-news-sites-reinvented.md
+      - "제4장. 중국 e스포츠 대전 플랫폼 흥망사": ko/04-rise-and-fall-of-gaming-platforms.md
+      - "제5장. CEG 이야기": ko/05-story-of-ceg.md
+      - "제6장. StarsWar, e스포츠 대회의 엔터테인먼트화 실험": ko/06-starswar-esports-entertainment.md
+      - "제7장. 유시펑윈의 과거와 현재": ko/07-gamestv-past-and-present.md
+      - "제8장. NeoTV와 PLU, 은원의 기록": ko/08-neotv-plu-grudges.md
+      - "제9장. 하이타오와 2009, 숙명의 충돌": ko/09-haitao-wusheng-fated-collision.md
+      - "제10장. 여성 e스포츠인 Miss": ko/10-miss-han-yiying-woman-in-esports.md
+      - "제11장. 여성 e스포츠인 샤오창": ko/11-xiaocang-zhang-xiangling-woman-in-esports.md
+      - "제12장. 인생이라는 카드 게임, 820 쩌우이톈": ko/12-zouyitian-820-card-game-of-life.md
+      - "제13장. 쓰촨 군단의 선봉, 마톈위안": ko/13-matianyuan-sichuan-vanguard.md
+      - "제14장. 텐센트, 뭘 하려는 걸까?": ko/14-tencent-what-does-it-want.md
+      - "제15장. 빈민가에서 나온 e스포츠 백만장자, 멍양": ko/15-mengyang-esports-millionaire.md
+      - "제16장. 고민에 빠진 인쇄 매체 《e스포츠》": ko/16-electronic-sports-magazine.md
+      - "제17장. 10년에 걸쳐 만든 EVA젠신 패치 팩": ko/17-eva-jianxin-warcraft-patch-pack.md
+      - "제18장. 클럽에서 연맹으로의 변천": ko/18-from-clubs-to-leagues.md
+      - "제19장. 긴 머리 흩날리며, DC 둥찬": ko/19-dongcan-dc-long-hair-flowing.md
+      - "제20장. 둬완의 비장의 카드": ko/20-duowan-killer-move.md
+      - "제21장. U9, 거침없다": ko/21-u9-ferocious.md
+      - "제22장. WE 리그 오브 레전드 팀 주장, 뤄펑 Misaya": ko/22-misaya-yu-jingxi-we-lol-captain.md
+      - "제23장. I-Rocks 다한, 다 걸어서 얻은 인생 전설": ko/23-hanbohan-i-rocks-all-in.md
+      - "제24장. 리샤오펑이 Sky가 되었을 때": ko/24-when-li-xiaofeng-became-sky.md
+      - "제25장. 왼손이 춤추는 남자, suhO": ko/25-suhao-dancing-left-hand.md
+      - "제26장. 한국을 꺾은 영웅, MagicYang": ko/26-magicyang-korean-killer.md
+      - "제27장. 부모가 대회에 데려간 아이, 산청구이왕 TED": ko/27-zengzhuo-ted-ghost-king.md
+      - "제28장. 시안 대학 e스포츠 연맹 XUGA": ko/28-xuga-xian-university-alliance.md
+      - "제29장. Replays.net, StarsWar, WE의 창립자 ZAX": ko/29-zhouhao-zax-replays-starswar-we-founder.md
+      - "제30장. 세계적인 중국 카운터 스트라이크 인게임 리더, Alex 볜정웨이": ko/30-alex-bian-zhengwei-cs-commander.md
+      - "제31장. 젠우훙옌샤오에서 IG.xiaoxiao까지, 쑨야룽": ko/31-sunyalong-xiaoxiao-ig-captain.md
+      - "제32장. 아제로스 국가지리 창립자 Ediart 톈젠": ko/32-tianjian-ediart-nga-founder.md
+      - "제33장. TI4 세계 챔피언이자 Newbee 주장, 장닝": ko/33-zhang-ning-xiao8-newbee-ti4-champion.md
+      - "제34장. 핑궈뉴의 《에이지 오브 엠파이어》": ko/34-pingguoniu-age-of-empires.md
+      - "제35장. e스포츠 엔터테인먼트화의 물결, 해설자 샤오즈": ko/35-xiaozhi-yang-fengzhi-entertainment-wave.md
+      - "제36장. 중국 e스포츠 해설의 원로 Alone": ko/36-alone-liu-qing-esports-caster.md
+      - "제37장. 격투 게임의 제왕, 샤오하이 쩡줘쥔": ko/37-xiaohai-zeng-zhuojun-king-of-fighters.md
+      - "제38장. Razer 창업자 겸 CEO 민량 탄, 누구보다 앞서가다": ko/38-min-liang-tan-razer-founder.md
+      - "제39장. 스타크래프트 올드보이즈의 늙지 않는 청춘": ko/39-starcraft-old-boys-ageless-youth.md
+      - "제40장. 명해설자 BBC의 인생 선택": ko/40-bbc-zhang-hongsheng-life-choices.md
+      - "제41장. 새로운 분야에서 e스포츠를 시작한 류이펑": ko/41-liuyifeng-starting-a-new-line.md
+      - "제42장. 중국 e축구 올해의 선수, 피파 챔피언 리쥔 SkylinE": ko/42-lijun-skyline-fifa-champion.md
+      - "제43장. e스포츠 첫 여성 구단주 RuRu 판제": ko/43-ruru-panjie-first-woman-club-owner.md
+      - "번외편. e스포츠에 대해 몇 마디": ko/extra-a-few-words-on-esports.md
+      - "번외편. 칼질 솜씨와 주방장": ko/extra-knife-skills-and-the-chef.md
+      - "당사자 증언. NeoTV 전 총경리 슝젠밍(熊剑明, Neo)이 직접 말하다": ko/witness-xiong-jianming-neotv.md
+      - 중국 게임의 이면사:
+          - "중국 게임의 이면사": ko/gamehistory/index.md
+          - "중국 게임의 이면사 서문": ko/gamehistory/00-foreword.md
+          - "제1장. 지촨밍징(吉川明静) '장밍징'과 일본 게임의 인연": ko/gamehistory/01-zhangmingjing-japanese-games.md
+          - "제2장. 유쿠는 미디어가 아니다, 게임 편집장 시우차이(秀才)": ko/gamehistory/02-xiucai-youku-game-editor.md
+          - "제3장. WOW, 블리자드는 사실 주청과 \"이혼\"할 생각이 없었다": ko/gamehistory/03-blizzard-the9-divorce.md
+          - "제4장. 쉐차: 우리가 놓친 것은 게임기 몇 대만이 아니다": ko/gamehistory/04-xuecha-missed-consoles.md
+          - "제5장. 톈랑의 코스프레 산업화 꿈": ko/gamehistory/05-tianlang-cosplay-industry.md
+          - "제6장. 왕위 PC카페 창업자 황펑": ko/gamehistory/06-huangfeng-wangyu-internet-cafe.md
+          - "제7장. 중국 인디 게임 개발자 산쥔의 고민": ko/gamehistory/07-shanjun-indie-game-dilemma.md
+          - "제8장. 이제는 분노 청년이 아닌 CEO 황이멍": ko/gamehistory/08-huangyimeng-ceo-no-longer-angry.md
+          - "번외편. 보스턴 야구 관전기": ko/gamehistory/extra-boston-baseball.md
+      - 이면사 단편과 사료:
+          - "이면사 단편과 사료": ko/appendix/index.md
+          - "통제를 잃은 중국 e스포츠": ko/appendix/01-chinese-esports-out-of-control.md
+          - "2000년 WCGC에서 쓴 KULOU.CSA의 한국 여행기": ko/appendix/02-kulou-csa-korea-trip-2000.md
+          - "왜 대부분의 e스포츠 조직과 대회는 상하이에 있는가?": ko/appendix/03-why-shanghai.md
+          - "2년 뒤, 모바일 e스포츠를 다시 본다": ko/appendix/04-mobile-esports-two-years-on.md
+          - "중국 격투 게임판, 얼어붙은 『청춘』": ko/appendix/05-chinas-fighting-game-scene-frozen-youth.md
+          - "e스포츠 대회 규칙을 모색하던 시절의 희생양, 한국 KTA": ko/appendix/06-kta-korean-team-rules-casualty.md
+          - "어둠이 오기 전의 새벽, 방송되지 못한 WCG 2003 다큐멘터리": ko/appendix/07-dawn-before-darkness-wcg2003-documentary.md
+          - "2003년 스웨덴 SK 팀의 중국 방문이 세계가 중국 e스포츠를 보는 눈을 바꾸었다": ko/appendix/08-sk-gaming-china-visit-2003.md
+          - "《중국 e스포츠의 이면사》 신간 발표회": ko/appendix/09-book-launch.md
+  - 日本語:
+      - "ホーム": ja/index.md
+      - "序章 道がもっと増えるように TEDxで語った中国eスポーツ": ja/one-more-way-tedx-2015.md
+  - Español:
+      - "Inicio": es/index.md
+      - "Un camino más: cómo sobrevivieron los esports chinos": es/one-more-way-tedx-2015.md
+  - Русский:
+      - "Главная": ru/index.md
+      - "Пусть дорог будет больше: как выжил китайский киберспорт": ru/one-more-way-tedx-2015.md
   - 许可 · License: license.md
