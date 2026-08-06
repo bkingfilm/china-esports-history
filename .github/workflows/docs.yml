@@ -5,13 +5,16 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # 每小时兜底部署一次,承接被跳过部署的批量翻译推送
+    - cron: "7 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: pages-${{ github.ref }}
+  group: pages-${{ github.ref }}-${{ github.event_name }}
   cancel-in-progress: true
 
 jobs:
@@ -44,7 +47,12 @@ jobs:
           path: site
 
   deploy:
-    if: github.event_name != 'pull_request'
+    # 批量翻译的逐章推送(提交信息以「繁體」开头)只构建不部署,
+    # 内容由每小时的定时部署统一上线,避免高频推送挤爆 Pages 部署队列
+    if: >-
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' && !startsWith(github.event.head_commit.message, '繁體'))
     needs: build
     runs-on: ubuntu-latest
     permissions:
