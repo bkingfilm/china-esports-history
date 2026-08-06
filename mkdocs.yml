@@ -53,6 +53,9 @@ extra:
     - name: 简体中文
       link: zh/
       lang: zh
+    - name: 繁體中文
+      link: zh-tw/
+      lang: zh-TW
     - name: English
       link: en/
       lang: en
@@ -153,6 +156,8 @@ nav:
           - WCG 2003 未播出的纪录片: zh/appendix/07-黑暗前的黎明-WCG2003未播出的纪录片.md
           - 2003 年瑞典 SK 战队访华: zh/appendix/08-2003年瑞典SK战队访华.md
           - 新书发布会: zh/appendix/09-新书发布会.md
+  - 繁體中文:
+      - 首頁: zh-tw/index.md
   - English:
       - "Home": en/index.md
       - "One More Way: How Chinese Esports Survived": en/one-more-way-tedx-2015.md
