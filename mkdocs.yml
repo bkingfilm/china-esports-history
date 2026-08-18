@@ -35,11 +35,35 @@ theme:
         icon: material/brightness-4
         name: 切换到浅色模式
 
+hooks:
+  - hooks/rss_date.py
+
 plugins:
   - search:
       lang:
         - zh
         - en
+  # RSS 只覆盖简体正文。四语全量 268 篇一起进 feed 会把订阅端刷屏，
+  # 且 VXNA 一类中文聚合站取的是简体内容，所以用 match_path 限定 zh/。
+  - rss:
+      # 排除三个目录索引页：它们没有首发日期，会回退到 git 时间（导入那天），
+      # 反而把三条 2026 年的条目顶到 feed 最前面，压住真正的文章。
+      match_path: "zh/(chapters|gamehistory|appendix)/(?!index\\.md).*"
+      abstract_chars_count: 240
+      length: 20
+      pretty_print: true
+      # 创建时间取正文里的知乎首发日（由 hooks/rss_date.py 注入），
+      # 不取 git 时间：全书是 2026-07-25 一次性导入的，git 时间会让 20 条挤在同一秒。
+      # 更新时间仍走 git，反映最后一次校对或修订。
+      date_from_meta:
+        as_creation: date_created
+        as_update: git
+        datetime_format: "%Y-%m-%d"
+        default_timezone: Asia/Shanghai
+      feeds_filenames:
+        rss_created: feed_rss_created.xml
+        rss_updated: feed_rss_updated.xml
+      image: https://bkingfilm.github.io/china-esports-history/assets/cover.jpg
 
 markdown_extensions:
   - attr_list

@@ -20,6 +20,10 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          # RSS 插件要读 git log 才能算出各页的最后更新时间。
+          # checkout 默认浅克隆(fetch-depth 1)，拿不到历史，strict 构建会报警告失败。
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
